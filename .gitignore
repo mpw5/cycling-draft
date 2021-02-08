@@ -65,3 +65,11 @@ yarn-debug.log*
 # Ignore uploaded files in development
 /storage/*
 !/storage/.keep
+
+# Ignore simplecov coverage stats
+/coverage/
+
+.DS_Store
+
+# Ignore Redis binary dump (dump.rdb) files
+*.rdb
