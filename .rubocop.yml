@@ -1,0 +1,86 @@
+require:
+  - rubocop-performance
+  - rubocop-rails
+
+AllCops:
+  TargetRubyVersion: 2.7
+  NewCops: enable
+  SuggestExtensions: false
+  Exclude:
+  - 'db/schema.rb'
+  - 'vendor/**/*'
+  - 'node_modules/**/*'
+  - 'ccms_integration/*'
+  - 'tmp/**/*'
+  - 'log/**/*'
+  - 'bin/bundle'
+
+Layout/LineLength:
+  Max: 180
+
+Lint/AmbiguousBlockAssociation:
+  Exclude:
+  - 'spec/**/*'
+
+Lint/UriEscapeUnescape:
+  Enabled: false
+
+Lint/RedundantCopDisableDirective:
+  Enabled: false
+
+Metrics/AbcSize:
+  Exclude:
+  - 'db/migrate/*'
+  - 'ccms_integration/helpers/ccms_payload_analyser.rb'
+
+Metrics/BlockLength:
+  Exclude:
+  - 'config/routes.rb'
+  - 'spec/**/*'
+
+Metrics/ClassLength:
+  Exclude:
+    - 'app/services/reports/mis/application_detail_csv_line.rb'
+    - 'app/models/legal_aid_application.rb'
+
+Metrics/MethodLength:
+  Exclude:
+  - 'db/migrate/*'
+  - 'ccms_integration/helpers/ccms_payload_analyser.rb'
+  - 'spec/**/*'
+  - 'app/services/reports/mis/application_detail_csv_line.rb'
+
+Metrics/ModuleLength:
+  Exclude:
+    - 'spec/**/*'
+
+Metrics/ParameterLists:
+  Max: 7
+
+Style/BlockDelimiters:
+  EnforcedStyle: braces_for_chaining
+
+Style/Documentation:
+  Exclude:
+  - '**/*'
+
+Style/SymbolArray:
+  EnforcedStyle: percent
+
+Style/Lambda:
+  EnforcedStyle: literal
+
+Style/RegexpLiteral:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/AccessorGrouping:
+  Enabled: false
+
+Style/RedundantAssignment:
+  Enabled: false
+
+Style/SoleNestedConditional:
+  Enabled: false
