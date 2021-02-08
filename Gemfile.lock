@@ -86,6 +86,7 @@ GEM
     haml (5.1.2)
       temple (>= 0.8.0)
       tilt
+    highline (2.0.3)
     i18n (1.8.8)
       concurrent-ruby (~> 1.0)
     jbuilder (2.11.2)
@@ -259,6 +260,7 @@ DEPENDENCIES
   factory_bot_rails (>= 5.2.0)
   faker (>= 1.9.1)
   haml
+  highline
   jbuilder (~> 2.7)
   listen (~> 3.3)
   pg (~> 1.1)
