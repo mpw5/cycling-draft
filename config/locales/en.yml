@@ -1,11 +1,16 @@
 en:
   generic:
-    back: 'Back'
+    back: Back
   leagues:
     index:
-      title: 'Leagues'
-      create: 'Create a new league'
+      title: Leagues
+      create: Create a new league
     new:
-      create: 'Create'
-      name: 'Name:'
-      title: 'Create a new league'
+      create: Create
+      name: Name
+      title: Create a new league
+    show:
+      create: Create a team
+  teams:
+    new:
+      title: Create a new team

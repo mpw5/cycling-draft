@@ -40,9 +40,17 @@ RSpec.describe LeaguesController, type: :request do
       expect { subject }.to change { League.count }.by(1)
     end
 
-    it 'redirects to new league page' do
+    it 'redirects to leagues page' do
       subject
       expect(response).to redirect_to(leagues_path)
+    end
+
+    context 'with errors' do
+      before { allow_any_instance_of(League).to receive(:save).and_return(false) }
+      it 'remains on the Create a League page' do
+        subject
+        expect(response.body).to include('Create a new league')
+      end
     end
   end
 
