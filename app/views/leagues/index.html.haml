@@ -1,0 +1,6 @@
+%html
+  %head
+  %body
+    %h1{style:'text-align:center;'}= t '.title'
+    - @leagues.each do |league|
+      %p= league.name
