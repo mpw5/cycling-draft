@@ -1,1 +1,1 @@
-# cycling-draft
+Draft a VDS Cycling Team
