@@ -2,5 +2,7 @@
   %head
   %body
     %h1{style:'text-align:center;'}= t '.title'
-    - @leagues.each do |league|
+    - @leagues&.each do |league|
       %p= league.name
+
+    = link_to t('.create'), :new_league, type: 'submit', class: 'btn btn-primary'

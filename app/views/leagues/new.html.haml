@@ -1,0 +1,16 @@
+%html
+  %head
+  %body
+    %h1{style:'text-align:center;'}= t '.title'
+    = form_with model: @league do |form|
+      - if @league.errors
+        %p #{@league.errors.full_messages.first}
+
+      %div
+        = form.label :name
+        = form.text_field :name, required: true
+
+      %p
+        = form.submit
+
+      = link_to t('generic.back'), :leagues
