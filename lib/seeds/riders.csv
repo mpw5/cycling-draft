@@ -1,0 +1,1212 @@
+"rank","country","team","rider_id","name","price","previous_score","score"
+1,"SLO","TJV",3273,"Primož Roglič",32,3844,0
+1,"BEL","TJV",3005,"Wout Van Aert",26,2361,0
+1,"SLO","UAD",3876,"Tadej Pogacar",26,2075,0
+1,"NED","AFC",3271,"Mathieu van der Poel",26,1985,0
+1,"FRA","GFC",1322,"Arnaud Démare",20,1855,0
+1,"POR","DQT",4043,"João Almeida",18,1815,0
+1,"ECU","IGD",3722,"Richard Carapaz",20,1356,0
+1,"FRA","DQT",2784,"Julian Alaphilippe",26,1355,0
+1,"DEN","AST",40,"Jakob Fuglsang",18,1325,0
+1,"ITA","UAD",923,"Diego Ulissi",12,1290,0
+1,"RUS","AST",4042,"Alexander Vlasov",20,1285,0
+1,"SUI","GFC",3159,"Stefan Küng",16,1270,0
+1,"FRA","COF",3603,"Guillaume Martin",18,1265,0
+1,"SVK","BOH",857,"Peter Sagan",22,1085,0
+1,"ITA","IGD",3739,"Filippo Ganna",20,1050,0
+1,"ITA","TQA",1161,"Giacomo Nizzolo",10,1040,0
+1,"SUI","UAD",4111,"Marc Hirschi",18,1015,0
+1,"NZL","TJV",1351,"George Bennett",12,990,0
+1,"BEL","DQT",2706,"Yves Lampaert",14,965,0
+1,"GBR","IGD",3303,"Tao Geoghegan Hart",18,960,0
+1,"GER","BOH",3549,"Maximilian Schachmann",16,951,0
+1,"FRA","DQT",2867,"Florian Senechal",10,950,0
+1,"IRL","DQT",2765,"Sam Bennett",18,930,0
+1,"ESP","MOV",3761,"Enric Mas Nicolau",8,910,0
+1,"DEN","DQT",4119,"Kasper Asgreen",16,890,0
+1,"POL","IGD",1179,"Michal Kwiatkowski",12,870,0
+1,"FRA","ARK",2672,"Warren Barguil",8,870,0
+1,"ITA","TFS",29,"Vincenzo Nibali",10,860,0
+1,"GER","BOH",3318,"Pascal Ackermann",18,832,0
+1,"AUS","BEX",972,"Michael Matthews",16,815,0
+1,"IRL","ISN",43,"Daniel Martin",12,805,0
+1,"CAN","ISN",3237,"Michael Woods",10,797,0
+1,"AUS","DSM",3929,"Jai Hindley",16,790,0
+1,"FRA","ACT",3727,"Benoit Cosnefroy",10,790,0
+1,"NED","BOH",1274,"Wilco Kelderman",6,785,0
+1,"DEN","DSM",3388,"Søren Kragh Andersen",8,780,0
+1,"BEL","DQT",4218,"Remco Evenepoel",24,768,0
+1,"AUS","IGD",815,"Richie Porte",8,765,0
+1,"AUS","LTS",2811,"Caleb Ewan",18,750,0
+1,"BEL","AFC",4002,"Jasper Philipsen",12,701,0
+1,"DEN","TFS",3209,"Mads Pedersen",10,693,0
+1,"BEL","TFS",2764,"Jasper Stuyven",12,690,0
+1,"ESP","TBV",1139,"Mikel Landa",10,690,0
+1,"NED","TJV",1275,"Tom Dumoulin",2,690,0
+1,"NOR","UAD",682,"Alexander Kristoff",20,655,0
+1,"BEL","DSM",3148,"Tiesj Benoot",14,650,0
+1,"FRA","DQT",3724,"Remi Cavagna",12,625,0
+1,"ECU","IGD",3924,"Jhonatan Narvaez",10,600,0
+1,"ESP","MOV",2,"Alejandro Valverde",14,595,0
+1,"ITA","DQT",4457,"Andrea Bagioli",6,588,0
+1,"BEL","ACT",96,"Greg Van Avermaet",20,585,0
+1,"BEL","AFC",3594,"Tim Merlier",5,585,0
+1,"COL","IGD",3446,"Egan Bernal",20,570,0
+1,"ESP","TBV",1310,"Pello Bilbao",5,560,0
+1,"GBR","BEX",2766,"Simon Right Yates",18,548,0
+1,"GBR","EFN",3146,"Hugh Carthy",16,545,0
+1,"GBR","IGD",913,"Geraint Thomas",16,535,0
+1,"COL","MOV",3117,"Miguel Angel Lopez",10,535,0
+1,"FRA","ARK",1257,"Nacer Bouhanni",5,530,0
+1,"GER","LTS",1207,"John Degenkolb",6,525,0
+1,"ITA","UAD",1385,"Matteo Trentin",18,520,0
+1,"POL","UAD",1271,"Rafal Majka",6,520,0
+1,"COL","IGD",3126,"Daniel Martinez",6,500,0
+1,"FRA","GFC",808,"Thibaut Pinot",16,495,0
+1,"COL","ARK",1105,"Nairo Quintana",8,490,0
+1,"NZL","BEX",3040,"Dion Smith",5,470,0
+1,"FRA","GFC",3630,"David Gaudu",14,465,0
+1,"AUT","BOH",3015,"Patrick Konrad",5,465,0
+1,"NED","TFS",301,"Bauke Mollema",10,450,0
+1,"ESP","UAD",1263,"David De La Cruz",5,445,0
+1,"ITA","TBV",1405,"Sonny Colbrelli",10,440,0
+1,"ESP","AST",3626,"Alex Aranburu",4,440,0
+1,"BEL","TQA",2794,"Victor Campenaerts",6,435,0
+1,"BEL","ACT",3151,"Oliver Naesen",14,425,0
+1,"GBR","IGD",4361,"Ethan Hayter",8,425,0
+1,"ITA","TBV",477,"Damiano Caruso",4,425,0
+1,"ITA","DQT",3713,"Davide Ballerini",5,415,0
+1,"COL","UAD",3239,"Fernando Gaviria",8,410,0
+1,"BEL","IWG",3415,"Aimé De Gendt",3,405,0
+1,"AUT","BOH",3369,"Felix Großschartner",4,402,0
+1,"ITA","EFN",2790,"Alberto Bettiol",4,400,0
+1,"CZE","DQT",2703,"Josef Cerny",4,395,0
+1,"GBR","ISN",1190,"Alex Dowsett",4,385,0
+1,"BEL","LTS",2358,"Tim Wellens",14,380,0
+1,"FRA","TDE",3202,"Anthony Turgis",3,380,0
+1,"ITA","TFS",3640,"Jacopo Mosca",3,370,0
+1,"ITA","DQT",3762,"Fausto Masnada",4,365,0
+1,"AUS","BEX",4154,"Robert Stannard",3,355,0
+1,"SLO","TBV",2846,"Matej Mohoric",5,350,0
+1,"SLO","BEX",2657,"Luka Mezgec",2,350,0
+1,"BEL","DQT",1411,"Tim Declercq",2,340,0
+1,"AUS","IGD",2637,"Rohan Dennis",14,335,0
+1,"ITA","TFS",3410,"Giulio Ciccone",6,335,0
+1,"FRA","ISN",3421,"Hugo Hofstetter",4,335,0
+1,"FRA","BBK",2692,"Bryan Coquard",3,330,0
+1,"POR","UAD",76,"Rui Costa",3,320,0
+1,"LUX","COF",1248,"Jempy Drucker",2,317,0
+1,"NED","DQT",3923,"Fabio Jakobsen",2,316,0
+1,"POR","EFN",3583,"Ruben Guerreiro",3,315,0
+1,"USA","TJV",3899,"Sepp Kuss",3,315,0
+1,"GBR","IGD",2889,"Adam Wrong Yates",16,310,0
+1,"AUS","BEX",2825,"Damien Howson",3,308,0
+1,"BEL","ARK",3198,"Amaury Capiot",3,300,0
+1,"GER","BOH",3429,"Lennard Kämna",2,300,0
+1,"NED","TBV",812,"Wout Poels",8,295,0
+1,"ITA","UAD",2813,"Davide Formolo",6,290,0
+1,"NED","IWG",2697,"Danny van Poppel",3,290,0
+1,"COL","EFN",3750,"Sergio Andres Higuita",10,280,0
+1,"BEL","LTS",4471,"Florian Vermeersch",3,280,0
+1,"CZE","EKA",4142,"Adam Toupalik",2,280,0
+1,"COL","EFN",373,"Rigoberto Uran",5,275,0
+1,"ITA","ACT",3646,"Andrea Vendrame",3,275,0
+1,"ESP","MOV",3740,"Ivan Garcia Cortina",2,275,0
+1,"ESP","BEX",776,"Mikel Nieve",2,270,0
+1,"NOR","UXT",4141,"Markus Hoelgaard",3,267,0
+1,"BEL","LTS",6,"Philippe Gilbert",10,265,0
+1,"NED","TJV",3928,"Pascal Eenkhoorn",3,265,0
+1,"USA","TFS",4580,"Quinn Simmons",2,265,0
+1,"AUS","TQA",493,"Simon Clarke",3,260,0
+1,"ITA","TDE",2710,"Niccolo Bonifazio",2,260,0
+1,"NOR","DSM",4345,"Andreas Leknessund",2,260,0
+1,"ITA","IWG",1265,"Andrea Pasqualon",2,260,0
+1,"GBR","IGD",162,"Ben Swift",2,260,0
+1,"HUN","GFC",4346,"Attila Valter",2,260,0
+1,"GBR","DQT",3844,"James Knox",5,255,0
+1,"GER","COF",253,"Simon Geschke",2,255,0
+1,"COL","BEX",1101,"Esteban Chaves",3,240,0
+1,"BEL","ISN",263,"Ben Hermans",2,240,0
+1,"BLR","UAD",3935,"Aliaksandr Riabushenko",2,240,0
+1,"GER","DQT",4351,"Jannik Steimle",2,240,0
+1,"BEL","TBV",3045,"Dylan Teuns",5,235,0
+1,"ITA","UAD",4522,"Alessandro Covi",2,235,0
+1,"EST","BEX",1006,"Tanel Kangert",2,235,0
+1,"FRA","GFC",1401,"Rudy Molard",2,235,0
+1,"RUS","IGD",3931,"Pavel Sivakov",10,225,0
+1,"BEL","AFC",3592,"Dries De Bondt",2,225,0
+1,"SLO","TBV",3277,"Jan Tratnik",2,220,0
+1,"BEL","AFC",4126,"Gianni Vermeersch",2,220,0
+1,"NOR","UAD",3116,"Sven Erik Bystrom",2,215,0
+1,"ESP","COF",1166,"Jesus Herrada",2,215,0
+1,"AUT","TBV",3877,"Hermann Pernsteiner",2,215,0
+1,"NED","TJV",3150,"Mike Teunissen",6,210,0
+1,"ITA","TQA",1342,"Fabio Aru",2,210,0
+1,"ESP","AST",642,"Gorka Izagirre",2,210,0
+1,"GER","AFC",4525,"Alexander Krieger",2,210,0
+1,"AUT","MOV",3397,"Gregor Mühlberger",2,210,0
+1,"ITA","DKO",4273,"Alessandro Fedeli",1,210,0
+1,"ITA","TJV",4234,"Edoardo Affini",2,208,0
+1,"FRA","GFC",3758,"Valentin Madouas",2,200,0
+1,"BEL","TQA",1066,"Dimitri Claeys",1,200,0
+1,"ITA","TFS",3932,"Nicola Conci",1,200,0
+1,"ITA","EOK",2324,"Luca Wackermann",1,200,0
+1,"AUS","ACT",3772,"Ben O\'Connor",2,195,0
+1,"ESP","MOV",3131,"Marc Soler",2,195,0
+1,"GER","DSM",3118,"Nico Denz",1,189,0
+1,"ITA","AST",562,"Fabio Felline",1,180,0
+1,"FRA","ACT",4036,"Aurélien Paret-Peintre",1,175,0
+1,"NED","IGD",2771,"Dylan van Baarle",3,170,0
+1,"BEL","DQT",223,"Dries Devenyns",1,170,0
+1,"NED","DSM",4504,"Nils Eekhoff",1,170,0
+1,"BEL","AFC",2863,"Jonas Rickaert",1,170,0
+1,"GBR","GFC",4602,"Jake Stewart",1,165,0
+1,"NED","TJV",685,"Steven Kruijswijk",6,160,0
+1,"CZE","DQT",1174,"Zdeněk Štybar",5,160,0
+1,"ERI","DKO",4534,"Biniyam Ghirmay",1,160,0
+1,"ITA","THR",3210,"Jakub Mareczko",1,160,0
+1,"USA","UAD",3825,"Brandon McNulty",1,160,0
+1,"FRA","DSM",1399,"Romain Bardet",12,150,0
+1,"ITA","TQA",334,"Domenico Pozzovivo",2,150,0
+1,"NED","RLY",3900,"Arvid De Kleijn",1,150,0
+1,"FRA","GFC",157,"Anthony Roux",1,150,0
+1,"FRA","ACT",2884,"Clement Venturini",1,150,0
+1,"POL","THR",3344,"Kamil Gradek",1,145,0
+1,"FRA","AUB",3050,"Romain Cardis",1,140,0
+1,"POL","LTS",3123,"Kamil Malecki",1,140,0
+1,"FRA","ACT",3297,"Nans Peters",1,140,0
+1,"USA","RLY",1364,"Joey Rosskopf",1,140,0
+1,"NED","TJV",3428,"Antwan Tolhoek",1,140,0
+1,"NZL","BEX",1300,"Jack Bauer",1,133,0
+1,"ESP","AST",1138,"Ion Izagirre",4,130,0
+1,"ESP","CJR",2656,"Jon Aberasturi Izaga",1,130,0
+1,"SUI","GFC",4112,"Matteo Badilatti",1,130,0
+1,"SUI","EFN",4336,"Stefan Bissegger",1,130,0
+1,"BEL","ACT",4311,"Stan Dewulf",1,130,0
+1,"BEL","BOH",4601,"Jordi Meeus",1,125,0
+1,"FRA","BBK",849,"Pierre Rolland",1,125,0
+1,"DEN","EFN",2756,"Magnus Cort Nielsen",2,120,0
+1,"BEL","BWB",3276,"Timothy Dupont",2,120,0
+1,"NZL","DQT",3046,"Shane Archbold",1,120,0
+1,"ECU","EFN",4292,"Jonathan Klever Caicedo",1,120,0
+1,"FRA","COF",1124,"Nicolas Edet",1,120,0
+1,"NED","IWG",2261,"Maurits Lammertink",1,120,0
+1,"POR","MOV",784,"Nelson Oliveira",1,120,0
+1,"ESP","MOV",3966,"Sergio Samitier",1,120,0
+1,"BEL","LTS",4264,"Gerben Thijssen",1,120,0
+1,"SVK","BOH",1261,"Juraj Sagan",1,117,0
+1,"LUX","ACT",2675,"Bob Jungels",10,115,0
+1,"ESP","DKO",2732,"Eduard Prades",1,115,0
+1,"USA","DSM",2743,"Chad Haga",1,114,0
+1,"AUT","ISN",193,"Matthias Brändle",1,110,0
+1,"ITA","UAD",2798,"Valerio Conti",1,110,0
+1,"ITA","ISN",1057,"Alessandro De Marchi",1,110,0
+1,"ITA","DKO",240,"Mauro Finetto",1,110,0
+1,"DEN","DSM",3905,"Casper Phillip Pedersen",1,110,0
+1,"ITA","IWG",3413,"Lorenzo Rota",1,110,0
+1,"GER","DSM",2744,"Jasha Sütterlin",1,110,0
+1,"KAZ","AST",2683,"Alexey Lutsenko",12,100,0
+1,"DEN","EFN",2880,"Michael Valgren",2,100,0
+1,"ITA","BCF",98,"Giovanni Visconti",2,100,0
+1,"POL","BWB",3448,"Stanislaw Aniolkowski",1,100,0
+1,"ITA","BCF",1303,"Enrico Battaglin",1,100,0
+1,"USA","BEX",451,"Brent Bookwalter",1,100,0
+1,"NED","TJV",4598,"David Dekker",1,100,0
+1,"LUX","GFC",4356,"Kevin Geniets",1,100,0
+1,"FRA","ACT",3744,"Dorian Godon",1,100,0
+1,"AUT","WSA",4603,"Valentin Götzinger",1,100,0
+1,"DEN","LTS",4276,"Andreas Kron",1,100,0
+1,"EST","BOH",3405,"Martin Laas",1,100,0
+1,"SWE","RIW",3919,"Kim Magnusson",1,100,0
+1,"GBR","ARK",3178,"Daniel McLay",1,100,0
+1,"GER","AFC",4298,"Marcel Meisen",1,100,0
+1,"POR","UAD",4048,"Ivo Oliveira",1,100,0
+1,"RUS","TSG",315,"Artem Ovechkin",1,100,0
+1,"POL","VOS",794,"Maciej Paterski",1,100,0
+1,"HUN","BEX",4152,"Barnabas Peak",1,100,0
+1,"CRO","ANS",3560,"Josip Rumac",1,100,0
+1,"ISR","ISN",3595,"Guy Sagiv",1,100,0
+1,"ESP","AST",45,"Luis Leon Sanchez",1,100,0
+1,"RUS","XYZ",2262,"Sergey Shilov",1,100,0
+1,"ROU","WGC",3024,"Serghei Tvetcov",1,100,0
+1,"EST","ISN",4577,"Norman Vahtra",1,100,0
+1,"BEL","DQT",3203,"Bert Van Lerberghe",1,100,0
+1,"BEL","IWG",3025,"Loic Vliegen",1,100,0
+1,"DEN","DQT",4254,"Mikkel Frølich Honoré",1,96,0
+1,"ROU","DKO",3006,"Eduard Michael Grosu",1,95,0
+1,"GER","DSM",4121,"Max Kanter",1,94,0
+1,"COL","DQT",3922,"Alvaro Hodeg",5,90,0
+1,"DEN","UAD",3917,"Mikkel Bjerg",4,90,0
+1,"ITA","EOK",420,"Manuel Belletti",1,90,0
+1,"ITA","TFS",455,"Gianluca Brambilla",1,90,0
+1,"BEL","BWB",2803,"Sean De Bie",1,90,0
+1,"COL","TQA",1298,"Sergio Henao",1,90,0
+1,"ERI","AST",2834,"Merhawi Kudus Ghebremedhin",1,90,0
+1,"FRA","ARK",3031,"Kevin Ledanois",1,90,0
+1,"IRL","TFS",3008,"Ryan Mullen",1,90,0
+1,"BEL","ACT",3768,"Lawrence Naesen",1,90,0
+1,"BEL","TDE",3412,"Dries Van Gestel",1,90,0
+1,"DEN","TJV",4291,"Jonas Vingegaard Rasmussen",1,90,0
+1,"FRA","TDE",2774,"Pierre Latour",4,80,0
+1,"NED","TJV",3298,"Sam Oomen",3,80,0
+1,"SUI","GFC",2649,"Sebastien Reichenbach",2,80,0
+1,"CZE","EKA",1067,"Jan Barta",1,80,0
+1,"NZL","ISN",3349,"Patrick Bevin",1,80,0
+1,"ESP","IGD",480,"Jonathan Castroviejo",1,80,0
+1,"IRL","IGD",3936,"Eddie Dunbar",1,80,0
+1,"ISR","ISN",4288,"Itmar Einhorn",1,80,0
+1,"AUT","TQA",3371,"Michael Gogl",1,80,0
+1,"FRA","ACT",2819,"Alexis Gougeard",1,80,0
+1,"FRA","ARK",4009,"Thibault Guernalec",1,80,0
+1,"RSA","IWG",2682,"Louis Meintjes",1,80,0
+1,"ITA","BBK",4503,"Luca Mozzato",1,80,0
+1,"BEL","LTS",3921,"Harm Vanhoucke",1,80,0
+1,"ESP","TDE",1121,"Victor De La Parte",1,75,0
+1,"NED","DSM",4150,"Cees Bol",5,70,0
+1,"BEL","LTS",520,"Thomas De Gendt",3,70,0
+1,"AUS","TBV",3149,"Jack Haig",3,70,0
+1,"NOR","TJV",4347,"Tobias Svendsen Foss",2,70,0
+1,"FRA","COF",2835,"Christophe Laporte",2,70,0
+1,"BEL","ARK",3729,"Benjamin Declercq",1,70,0
+1,"LUX","TFS",2996,"Alex Kirsch",1,70,0
+1,"USA","RLY",3302,"Gavin Mannion",1,70,0
+1,"ESP","AST",4039,"Oscar Rodriquez",1,70,0
+1,"ITA","ARK",2705,"Diego Rosa",1,70,0
+1,"ESP","BBH",3364,"Diego Rubio",1,70,0
+1,"ITA","GAZ",3419,"Simone Velasco",1,70,0
+1,"USA","ACT",2684,"Larry Warbasse",1,70,0
+1,"AUS","BEX",3975,"Lucas Hamilton",1,68,0
+1,"ITA","COF",951,"Elia Viviani",12,60,0
+1,"BEL","LTS",2699,"Jasper De Buyst",2,60,0
+1,"ESP","CJR",3437,"Julen Amezqueta",1,60,0
+1,"ESP","TQA",2734,"Carlos Barbero Questa",1,60,0
+1,"FRA","TFS",3304,"Julien Bernard",1,60,0
+1,"ESP","MOV",3723,"Hector Carretero",1,60,0
+1,"ITA","DQT",1420,"Mattia Cattaneo",1,60,0
+1,"FRA","DSM",3241,"Romain Combaud",1,60,0
+1,"FRA","TDE",3734,"Fabien Doubey",1,60,0
+1,"DEN","AST",3910,"Jonas Gregaard",1,60,0
+1,"NOR","UXT",3555,"Kristoffer Halvorsen",1,60,0
+1,"ESP","EUS",4474,"Gotzon Martin",1,60,0
+1,"ITA","EOK",3436,"Luca Pacioni",1,60,0
+1,"ESP","TDE",3438,"Cristian Rodríguez",1,60,0
+1,"POL","VOS",3225,"Patryk Stosz",1,60,0
+1,"ESP","MOV",2718,"Carlos Verona Quintanilla",1,60,0
+1,"DEN","ISN",3292,"Mads Würtz Schmidt",1,60,0
+1,"AUS","BEX",1377,"Luke Durbridge",1,58,0
+1,"NED","TJV",4604,"Olav Kooij",1,56,0
+1,"COL","IGD",3801,"Ivan Ramiro Sosa",4,55,0
+1,"SUI","TBV",4235,"Gino Mäder",1,55,0
+1,"NED","DSM",4239,"Joris Nieuwenhuis",1,54,0
+1,"GER","TQA",3317,"Maximilian Walscheid",3,50,0
+1,"BEL","IWG",810,"Baptiste Planckaert",2,50,0
+1,"NED","DSM",4517,"Thymen Arensman",1,50,0
+1,"BEL","IWG",181,"Jan Bakelants",1,50,0
+1,"SLO","XYZ",58,"Janez Brajkovic",1,50,0
+1,"ITA","COF",3648,"Simone Consonni",1,50,0
+1,"BEL","TIS",4222,"Alfdan De Decker",1,50,0
+1,"FRA","ARK",528,"Anthony Delaplace",1,50,0
+1,"ESP","AST",2700,"Omar Fraile",1,50,0
+1,"FRA","ARK",991,"Romain Hardy",1,50,0
+1,"SUI","GFC",3869,"Fabian Lienhard",1,50,0
+1,"BEL","AFC",3307,"Xandro Meurisse",1,50,0
+1,"ITA","IWG",3372,"Simone Petilli",1,50,0
+1,"SLO","UAD",2678,"Jan Polanc",1,50,0
+1,"GBR","IGD",1378,"Luke Rowe",1,50,0
+1,"COL","MOV",4540,"Einer Augusto Rubio",1,50,0
+1,"ITA","BCF",3937,"Daniel Savini",1,50,0
+1,"ESP","MOV",3953,"Gonzalo Serrano",1,50,0
+1,"COL","AST",4475,"Harold Tejada",1,50,0
+1,"FRA","GFC",3856,"Benjamin Thomas",1,50,0
+1,"BEL","XYZ",935,"Michael Van Staeyen",1,50,0
+1,"BEL","BWB",379,"Jelle Vanendert",1,50,0
+1,"AUS","BEX",4374,"Kaden Groves",1,48,0
+1,"NED","BOH",4479,"Ide Schelling",1,42,0
+1,"NOR","TDE",7,"Edvald Boasson Hagen",2,40,0
+1,"LAT","TFS",3255,"Toms Skujins",2,40,0
+1,"BEL","TQA",401,"Sander Armee",1,40,0
+1,"ITA","BBK",3712,"Nicola Bagioli",1,40,0
+1,"FRA","ISN",2988,"Rudy Barbier",1,40,0
+1,"USA","EFN",4005,"William Barta",1,40,0
+1,"NED","TJV",3387,"Koen Bouwman",1,40,0
+1,"ITA","GAZ",1379,"Marco Canola",1,40,0
+1,"ITA","MOV",201,"Dario Cataldo",1,40,0
+1,"ITA","ISN",492,"Davide Cimolai",1,40,0
+1,"FRA","TFS",1372,"Kenny Elissonde",1,40,0
+1,"FRA","VBG",3960,"Alexis Guerin",1,40,0
+1,"FRA","BBK",129,"Jonathan Hivert",1,40,0
+1,"NED","TBV",4493,"Kevin Inkelaar",1,40,0
+1,"UKR","TBV",3976,"Mark Padun",1,40,0
+1,"FRA","TNN",2859,"Charles Planet",1,40,0
+1,"ITA","IGD",1402,"Salvatore Puccio",1,40,0
+1,"NED","RIW",3787,"Elmar Reinders",1,40,0
+1,"LUX","TFS",4509,"Michel Ries",1,40,0
+1,"BEL","DQT",1211,"Pieter Serry",1,40,0
+1,"FRA","TDE",884,"Julien Simon",1,40,0
+1,"CZE","AFC",2879,"Petr Vakoc",1,40,0
+1,"RUS","GAZ",2343,"Ilnur Zakarin",1,40,0
+1,"GBR","IGD",3306,"Owain Doull",2,35,0
+1,"AUS","DSM",3930,"Michael Storer",1,34,0
+1,"DEN","UXT",4132,"Julius Johansen",1,32,0
+1,"BEL","ISN",940,"Sep Vanmarcke",5,30,0
+1,"FRA","ACT",4382,"Clément Champoussin",2,30,0
+1,"GBR","DSM",4498,"Mark Donovan",2,30,0
+1,"GBR","LTS",3853,"Matthew Holmes",2,30,0
+1,"BEL","TFS",2877,"Edward Theuns",2,30,0
+1,"USA","TQA",4108,"Sean Bennett",1,30,0
+1,"RUS","GAZ",986,"Sergey Chernetskiy",1,30,0
+1,"SUI","TQA",3629,"Kilian Frankiny",1,30,0
+1,"FIN","ACT",4289,"Jaakko Hänninen",1,30,0
+1,"BEL","BWB",4476,"Laurens Huys",1,30,0
+1,"USA","MOV",4501,"Matteo Jorgenson",1,30,0
+1,"USA","RLY",1177,"Benjamin King",1,30,0
+1,"FRA","BBK",3826,"Jérémy Lecroq",1,30,0
+1,"POR","UAD",4049,"Rui Oliveira",1,30,0
+1,"ESP","MOV",3365,"Antonio Pedrero",1,30,0
+1,"USA","EFN",3582,"Neilson Powless",1,30,0
+1,"ITA","ANS",4586,"Simone Ravanelli",1,30,0
+1,"FRA","COF",4256,"Rémy Rochas",1,30,0
+1,"FRA","GFC",3920,"Romain Seigle",1,30,0
+1,"SUI","BWB",4557,"Joël Suter",1,30,0
+1,"NED","RIW",2882,"Nick van der Lijke",1,30,0
+1,"BEL","AFC",3154,"Louis Vervaeke",1,30,0
+1,"GER","ISN",2890,"Rick Zabel",1,30,0
+1,"FRA","ACT",3028,"Marc Sarreau",3,25,0
+1,"GER","BAI",4600,"Nikodemus Holler",1,25,0
+1,"RSA","ISN",638,"Daryl Impey",1,25,0
+1,"RSA","UAD",3642,"Ryan Gibbons",1,20,0
+1,"AUS","COF",1391,"Nathan Haas",1,20,0
+1,"SUI","MOV",4488,"Johan Jacobs",1,20,0
+1,"LAT","TFS",3897,"Emils Liepins",1,20,0
+1,"BEL","BBK",1338,"Eliot Lietaer",1,20,0
+1,"COL","UAD",3127,"Juan Sebastian Molano",1,20,0
+1,"ITA","TFS",4134,"Matteo Moschetti",1,20,0
+1,"CZE","EKA",4607,"Jakub Otruba",1,20,0
+1,"FRA","BBK",3378,"Quentin Pacher",1,20,0
+1,"AUS","TQA",3417,"Robert Power",1,20,0
+1,"ITA","AMO",3644,"Marco Tizza",1,20,0
+1,"ESP","TBV",925,"Rafael Valls",1,20,0
+1,"NED","AFC",4232,"David van der Poel ",1,20,0
+1,"GBR","TBV",4472,"Alfred Wright",1,20,0
+1,"ITA","EOK",3709,"Vincenzo Albanese",1,15,0
+1,"BEL","COF",3710,"Piet Allegaert ",1,15,0
+1,"ITA","ANS",4502,"Mattia Bais",1,15,0
+1,"FRA","ARK",3172,"Thomas Boudat",1,15,0
+1,"POL","MSP",3121,"Piotr Brozyna",1,15,0
+1,"BEL","LTS",3383,"Frederik Frison",1,15,0
+1,"CZE","IWG",3160,"Jan Hirt",1,15,0
+1,"BEL","BWB",4223,"Arjen Livyns",1,15,0
+1,"BEL","SVB",4258,"Sasha Weemaes",1,15,0
+1,"GER","BOH",3165,"Emanuel Buchmann",12,10,0
+1,"GER","BOH",3262,"Nils Politt",8,10,0
+1,"FRA","ACT",3403,"Lilian Calmejane",2,10,0
+1,"ESP","EUS",4465,"Antonio Angulo",1,10,0
+1,"FRA","GFC",3902,"Bruno Armirail",1,10,0
+1,"GER","TBV",3145,"Phil Bauhaus",1,10,0
+1,"BEL","ISN",3716,"Jenthe Biermans",1,10,0
+1,"NOR","UXT",4469,"Erlend Blikra",1,10,0
+1,"ITA","GAZ",3995,"Imerio Cima",1,10,0
+1,"ITA","DSM",4365,"Alberto Dainese",1,10,0
+1,"SUI","AFC",2807,"Silvan Dillier",1,10,0
+1,"ITA","BOH",3925,"Matteo Fabbro",1,10,0
+1,"COL","ARK",3737,"Miguel Eduardo Florez",1,10,0
+1,"FRA","TDE",3400,"Fabien Grellier",1,10,0
+1,"BEL","DQT",274,"Iljo Keisse",1,10,0
+1,"SUI","ANS",3208,"Simon Pellaud",1,10,0
+1,"CAN","ISN",4143,"James Piccoli",1,10,0
+1,"BEL","AFC",3783,"Edward Planckaert",1,10,0
+1,"GER","BOH",1070,"Michael Schwarzmann",1,10,0
+1,"AUS","GFC",3797,"Miles Scotson",1,10,0
+1,"BEL","IWG",934,"Pieter Van Speybroeck",1,10,0
+1,"BEL","DQT",4372,"Mauri Vansevenant",1,10,0
+1,"BEL","AFC",2885,"Otto Vergaerde",1,10,0
+1,"AUS","BEX",1387,"Michael Hepburn",1,8,0
+1,"COL","IGD",4535,"Brandon Smith Rivera",1,5,0
+1,"DEN","DSM",2974,"Asbjorn Kragh Andersen",1,4,0
+1,"AUT","DSM",4543,"Felix Gall",1,4,0
+1,"NOR","UXT",4454,"Jonas Abrahamsen",1,2,0
+1,"ITA","BOH",1063,"Cesare Benedetti",1,2,0
+1,"GER","BOH",59,"Marcus Burghardt",1,2,0
+1,"AUT","BOH",4579,"Patrick Gamper",1,2,0
+1,"NOR","UXT",3377,"Daniel Hoelgaard",1,2,0
+1,"DEN","UXT",4371,"Niklas Larsen",1,2,0
+1,"NOR","UXT",3548,"Anders Skaarseth",1,2,0
+1,"NOR","UXT",4518,"Torstein Traeen",1,2,0
+1,"GBR","IGD",4673,"Thomas Pidcock",10,0,0
+1,"GBR","ISN",245,"Chris Froome",8,0,0
+1,"ITA","IGD",3420,"Gianni Moscon",8,0,0
+1,"NED","TJV",2355,"Dylan Groenewegen",5,0,0
+1,"NOR","BEX",3754,"Amund Groendahl Jansen",5,0,0
+1,"GBR","TDE",3284,"Christopher Lawless",5,0,0
+1,"BEL","EFN",661,"Jens Keukeleire",3,0,0
+1,"NED","TJV",928,"Jos van Emden",3,0,0
+1,"FRA","GFC",4527,"Alexys Brunel",2,0,0
+1,"NED","TDE",94,"Niki Terpstra",2,0,0
+1,"NOR","RIW",4495,"Kristian Aasvold",1,0,0
+1,"ESP","EKP",4666,"Roger Adriá",1,0,0
+1,"BEL","BTL",3880,"Toon Aerts",1,0,0
+1,"ESP","EKP",4716,"Jon Agirre",1,0,0
+1,"COL","XYZ",3543,"Hernan Aguirre",1,0,0
+1,"ESP","XYZ",4308,"Raul Alarcon",1,0,0
+1,"COL","MOV",4558,"Juan Diego Alba",1,0,0
+1,"ITA","BOH",4686,"Giovanni Aleotti",1,0,0
+1,"ESP","EUS",4572,"Mikel Alonso",1,0,0
+1,"CRC","IGD",395,"Andrey Amador",1,0,0
+1,"COL","STR",3711,"Juan Jose Amador",1,0,0
+1,"COL","ARK",1318,"Winner Anacona",1,0,0
+1,"ERI","XYZ",4061,"Awet Andemeskel",1,0,0
+1,"NOR","UXT",4551,"Idar Andersen",1,0,0
+1,"USA","AFC",4044,"Edward Anderson",1,0,0
+1,"FRA","XRL",1369,"Julien Antomarchi",1,0,0
+1,"POR","W52",3550,"Manuel Antunes Amaro",1,0,0
+1,"ESP","BBH",4749,"Mario Aparicio",1,0,0
+1,"BEL","SVB",4672,"Ruben Apers",1,0,0
+1,"ESP","EKP",4730,"Sergio Araiz",1,0,0
+1,"ESP","EUS",4489,"Jokin Aranburu",1,0,0
+1,"JPN","TBV",179,"Yukiya Arashiro",1,0,0
+1,"ESP","MOV",3441,"Jorge Arcas",1,0,0
+1,"GBR","EOK",4379,"John Archibald",1,0,0
+1,"COL","UAD",4530,"Andres Camilo Ardila",1,0,0
+1,"ESP","EUS",3385,"Mikel Aristi",1,0,0
+1,"GER","DSM",2659,"Nikias Arndt",1,0,0
+1,"COL","EFN",4713,"Daniel Arroyave",1,0,0
+1,"AZE","SBB",3558,"Elchin Asadov",1,0,0
+1,"COL","XYZ",1097,"Darwin Atapuma",1,0,0
+1,"VEN","CJR",4383,"Orluis Aular",1,0,0
+1,"COL","BBH",2638,"Edwin Avila",1,0,0
+1,"ESP","UAD",4747,"Juan Ayuso",1,0,0
+1,"ESP","EUS",4726,"Xabier Mikel Azparren",1,0,0
+1,"ESP","EUS",4478,"Ibai Azurmendi",1,0,0
+1,"BEL","BBK",2787,"Frederik Backaert",1,0,0
+1,"ESP","CJR",3974,"Aritz Bagues",1,0,0
+1,"ITA","EOK",4689,"David Bais",1,0,0
+1,"ESP","EUS",4552,"Iker Ballarin",1,0,0
+1,"POL","MSP",3368,"Adrian Banaszek",1,0,0
+1,"POL","MSP",3451,"Alan Banaszek",1,0,0
+1,"POL","MSP",3449,"Norbert Banaszek",1,0,0
+1,"FRA","DKO",4079,"Pierre Barbier",1,0,0
+1,"ESP","COF",3973,"Fernando Barcelo",1,0,0
+1,"ESP","CJR",4751,"Jon Barrenetxea",1,0,0
+1,"FRA","BBK",3971,"Cyril Barthe",1,0,0
+1,"ITA","THR",4528,"Andrea Bartolozzi",1,0,0
+1,"SVK","BOH",3391,"Erik Baška",1,0,0
+1,"USA","RLY",4515,"Stephen Bassett",1,0,0
+1,"ITA","IGD",3300,"Leonardo Basso",1,0,0
+1,"ITA","AST",4582,"Samuele Battistella",1,0,0
+1,"BEL","XYZ",417,"Jerome Baugnies",1,0,0
+1,"AUT","AFC",4679,"Tobias Bayer",1,0,0
+1,"NZL","TNN",4550,"Hamish Beadle",1,0,0
+1,"ITA","XYZ",4548,"Gianmarco Begnoni",1,0,0
+1,"SUI","TNN",4303,"Oliver Behringer",1,0,0
+1,"FRA","IWG",4485,"Jérémy  Bellicaud",1,0,0
+1,"COL","XYZ",2965,"Edward Beltran",1,0,0
+1,"ITA","XYZ",3155,"Marco Benfatto",1,0,0
+1,"FRA","TNN",3453,"Mehdi Benhamouda",1,0,0
+1,"FRA","AFD",4458,"Antoine Benoist",1,0,0
+1,"JPN","EFN",427,"Fumiyuki Beppu",1,0,0
+1,"ERI","COF",2658,"Natnael Berhane",1,0,0
+1,"POL","MSP",3353,"Pawel Bernas",1,0,0
+1,"ESP","EKP",4270,"Urko Berrade Fernandez",1,0,0
+1,"ITA","THR",3194,"Liam Bertazzo",1,0,0
+1,"FRA","DKO",4746,"Clément Berthet",1,0,0
+1,"AUS","ISN",4709,"Sebastian Berwick",1,0,0
+1,"COL","CTA",1073,"Carlos Betancur",1,0,0
+1,"BEL","SVB",4464,"Cédric Beullens",1,0,0
+1,"ITA","THR",4571,"Mattia Bevilacqua",1,0,0
+1,"ITA","THR",3980,"Simone Bevilacqua",1,0,0
+1,"NZL","BEX",438,"Sam Bewley",1,0,0
+1,"FRA","ACT",3404,"François Bidard",1,0,0
+1,"ITA","ANS",441,"Alessandro Bisolti",1,0,0
+1,"ESP","EUS",3591,"Mikel Bizkarra",1,0,0
+1,"ITA","AST",1185,"Manuele Boaro",1,0,0
+1,"POL","BOH",188,"Maciej Bodnar",1,0,0
+1,"RUS","GAZ",2636,"Igor Boev",1,0,0
+1,"SUI","COF",3319,"Tom Bohli",1,0,0
+1,"COL","XYZ",3718,"Hernando Bohorquez",1,0,0
+1,"FRA","BBK",4695,"Alan Boileau",1,0,0
+1,"CAN","ISN",1041,"Guillaume Boivin",1,0,0
+1,"NED","BBH",1273,"Jetse Bol",1,0,0
+1,"SLO","XYZ",189,"Grega Bole",1,0,0
+1,"ITA","XYZ",2652,"Francesco Bongiorno",1,0,0
+1,"ITA","TDE",4145,"Leonardo Bonifazio",1,0,0
+1,"FRA","BBK",3309,"Franck Bonnamour",1,0,0
+1,"FRA","GFC",106,"William Bonnet",1,0,0
+1,"ITA","EUS",3996,"Joan Bou",1,0,0
+1,"FRA","ACT",4286,"Geoffrey Bouchard",1,0,0
+1,"FRA","ARK",453,"Maxime Bouet",1,0,0
+1,"GBR","TNN",3979,"Samuel Brand",1,0,0
+1,"POR","W52",3567,"Joni Brandao",1,0,0
+1,"ESP","EUS",1114,"Garikoitz Bravo",1,0,0
+1,"GER","DSM",4740,"Marco Brenner",1,0,0
+1,"ITA","XYZ",3939,"Michael Bresciani",1,0,0
+1,"CAN","RLY",3034,"Rob Britton",1,0,0
+1,"NZL","TQA",4678,"Connor Brown",1,0,0
+1,"USA","EVO",4046,"Jonny Brown",1,0,0
+1,"USA","RLY",2793,"Nathan Brown",1,0,0
+1,"KAZ","AST",4706,"Gleb Brussenskiy",1,0,0
+1,"DEN","TCQ",4051,"Nicolai Brøchner",1,0,0
+1,"NED","BCY",3720,"Martijn Budding",1,0,0
+1,"COL","TBV",4583,"Santiago Buitrago Sanchez",1,0,0
+1,"FRA","TDE",4299,"Mathieu Burgaudeau",1,0,0
+1,"ITA","XYZ",459,"Matteo Busato",1,0,0
+1,"UKR","SBB",461,"Vitaliy Buts",1,0,0
+1,"DEN","XYZ",4268,"Rasmus Byriel Iversen",1,0,0
+1,"ESP","BBH",3950,"Oscar Cabedo",1,0,0
+1,"FRA","TDE",4486,"Jérémy Cabot",1,0,0
+1,"POR","W52",3564,"Samuel Caldeira",1,0,0
+1,"COL","CJR",4559,"Juan Fernando Calle",1,0,0
+1,"FRA","BBK",3215,"Maxime Cam",1,0,0
+1,"COL","EFN",4680,"Diego Camargo",1,0,0
+1,"POR","W52",4285,"Francisco Campos",1,0,0
+1,"ESP","BBH",4462,"Carlos Canal",1,0,0
+1,"COL","BCF",4654,"Jonathan Cañaveral",1,0,0
+1,"ESP","GIS",4271,"Xavier Cañellas",1,0,0
+1,"COL","XYZ",1093,"Alex Cano",1,0,0
+1,"ESP","BBH",4482,"Isaac Cantón",1,0,0
+1,"ITA","TBV",472,"Eros Capecchi",1,0,0
+1,"ITA","BCF",3563,"Giovanni Carboni",1,0,0
+1,"FRA","DKO",4227,"Clément Carisey",1,0,0
+1,"USA","RLY",3032,"Robin Carpenter",1,0,0
+1,"GBR","EFN",4585,"Simon Carr",1,0,0
+1,"POR","COF",4274,"Andre Carvahalo",1,0,0
+1,"POR","EFP",2987,"Antonio Carvalho",1,0,0
+1,"POR","KSU",3865,"Henrique Madeira Casimiro",1,0,0
+1,"MEX","WGC",4133,"Ulises Alfredo Castillo",1,0,0
+1,"ESP","EKP",4063,"Jaime Castrillo",1,0,0
+1,"BEL","BWB",4490,"Jonas Castrique",1,0,0
+1,"CAN","ISN",3635,"Alexander Cataford",1,0,0
+1,"GBR","DQT",4,"Mark Cavendish",1,0,0
+1,"ITA","TSC",3840,"Danilo Celano",1,0,0
+1,"ECU","CJR",4484,"Jefferson Alveiro Cepeda",1,0,0
+1,"ECU","ANS",4556,"Jefferson Alexander Cepeda",1,0,0
+1,"ESP","TAV",202,"Gustavo Cesar",1,0,0
+1,"COL","MED",1106,"Robinson Chalapud",1,0,0
+1,"FRA","COF",4739,"Thomas Champion",1,0,0
+1,"DEN","UXT",4658,"Anthon Charmig",1,0,0
+1,"FRA","ACT",487,"Mikael Cherel",1,0,0
+1,"RUS","GAZ",4006,"Nicolay Cherkasov",1,0,0
+1,"FRA","BBK",4696,"Maxime Chevalier",1,0,0
+1,"ITA","ANS",3158,"Luca Chirico",1,0,0
+1,"GBR","EOK",3641,"Mark Christian",1,0,0
+1,"POL","VOS",3878,"Pawel Cieslik",1,0,0
+1,"ITA","GAZ",3994,"Damiano Cima",1,0,0
+1,"IRL","TNN",2712,"Stephan Clancy",1,0,0
+1,"AUS","WGC",1236,"Jonathan Clarke",1,0,0
+1,"ITA","BEX",4562,"Kevin Colleoni",1,0,0
+1,"BEL","SVB",4676,"Alex Colman",1,0,0
+1,"ITA","LTS",4348,"Filippo Conca",1,0,0
+1,"COL","AST",3238,"Rodrigo Contreras",1,0,0
+1,"CAN","RLY",4306,"Pier-André Coté",1,0,0
+1,"FRA","TDE",505,"Jérôme Cousin",1,0,0
+1,"ITA","BCF",4297,"Luca Covili",1,0,0
+1,"USA","EFN",2742,"Lawson Craddock",1,0,0
+1,"BEL","LTS",3926,"Steff Cras",1,0,0
+1,"ESP","EUS",4589,"Unai Cuadrado",1,0,0
+1,"ESP","CJR",3955,"Alvaro Cuadros",1,0,0
+1,"GBR","MOV",4473,"Gabriel Cullaigh",1,0,0
+1,"CAN","RLY",3885,"Matteo Dal-cin",1,0,0
+1,"ITA","BCF",4520,"Nicholas Dalla Valle",1,0,0
+1,"FRA","TNN",4743,"Lucas Dauge",1,0,0
+1,"GBR","TBV",3569,"Scott Davies",1,0,0
+1,"USA","HBA",4004,"Cole Davis",1,0,0
+1,"FRA","GFC",4665,"Clément Davy",1,0,0
+1,"BEL","BBK",519,"Bert De Backer",1,0,0
+1,"RSA","AST",4261,"Stefan de Bod",1,0,0
+1,"ITA","THR",4569,"Matteo De Bonis",1,0,0
+1,"NED","TNN",3140,"Gerd de Keijzer",1,0,0
+1,"BEL","SVB",521,"Kenny De Ketele",1,0,0
+1,"NED","TFS",216,"Koen de Kort",1,0,0
+1,"ESP","LLC",112,"David De La Fuente",1,0,0
+1,"ITA","XYZ",1195,"Flavio De Luna Davila",1,0,0
+1,"BEL","SVB",4507,"Sander De Pestel",1,0,0
+1,"BEL","IWG",4555,"Jasper De Plus",1,0,0
+1,"BEL","IGD",3439,"Laurens De Plus",1,0,0
+1,"FRA","DKO",3961,"Lucas De Rossi",1,0,0
+1,"BEL","AFC",3193,"Floris De Tier",1,0,0
+1,"CAN","RLY",3576,"Adam De Vos",1,0,0
+1,"BEL","AFC",1210,"Laurens De Vreese",1,0,0
+1,"NED","MET",3993,"Hartthijs De Vries",1,0,0
+1,"BEL","SVB",3728,"Lindsay de Vylder",1,0,0
+1,"BEL","SVB",4549,"Gilles De Wilde",1,0,0
+1,"BEL","IWG",3320,"Ludwig De Winter",1,0,0
+1,"BEL","XRL",3831,"Matthias De Witte",1,0,0
+1,"ERI","DKO",4682,"Yakob Debesay",1,0,0
+1,"ERI","BAI",3362,"Mekseb Debesay",1,0,0
+1,"BEL","BBK",1262,"Jens Debusschere",1,0,0
+1,"BEL","XYZ",1253,"Thomas Degand",1,0,0
+1,"ESP","LLC",2983,"Jesus Del Pino",1,0,0
+1,"FRA","IWG",4516,"Théo Delacroix",1,0,0
+1,"FRA","GFC",114,"Mickael Delage",1,0,0
+1,"FRA","DKO",4370,"Alexandre Delettre",1,0,0
+1,"BEL","XYZ",2966,"Tom Dernies",1,0,0
+1,"BEL","IWG",3206,"Tom Devriendt",1,0,0
+1,"ITA","THR",4529,"Andrea di Renzo",1,0,0
+1,"ESP","DKO",3732,"Jose Manuel Diaz Gallego",1,0,0
+1,"HUN","EOK",4653,"Márton Dina",1,0,0
+1,"RSA","TQA",3918,"Nicholas Dlamini",1,0,0
+1,"AUS","EFN",536,"Mitchell Docker",1,0,0
+1,"POL","MSP",1371,"Karol Domagalski",1,0,0
+1,"USA","UAD",2314,"Joe Dombrowski",1,0,0
+1,"COL","MED",1144,"Fabio Duarte",1,0,0
+1,"CAN","GFC",2809,"Antoine Duchesne",1,0,0
+1,"CRO","XYZ",2616,"Kristijan Durasek",1,0,0
+1,"FRA","ACT",3248,"Julien Duval",1,0,0
+1,"AUS","UKO",4087,"Ben Dyball",1,0,0
+1,"AUS","UKO",2810,"Nathan Earle",1,0,0
+1,"AUS","BEX",3379,"Alexander Edmondson",1,0,0
+1,"DEN","TFS",3933,"Niklas Eg",1,0,0
+1,"DEN","TFS",4236,"Jakob Egholm",1,0,0
+1,"NOR","IWG",3299,"Odd Christian Eiking",1,0,0
+1,"FRA","EFN",116,"Julien El Fares",1,0,0
+1,"ESP","MOV",4481,"Iñigo Elosegui",1,0,0
+1,"NOR","TCQ",4595,"Stein-Erik Eriksen",1,0,0
+1,"SWE","RIW",4219,"Lucas Eriksson",1,0,0
+1,"ESP","MOV",554,"Imanol Erviti",1,0,0
+1,"ESP","CJR",4738,"Josu Etxeberria",1,0,0
+1,"AUS","IWG",4455,"Alexander Evans",1,0,0
+1,"RUS","STC",3231,"Alexander Evtushenko",1,0,0
+1,"ESP","BBH",3948,"Jesus Ezquerra",1,0,0
+1,"NOR","XYZ",4305,"Petter Fagerhaug",1,0,0
+1,"ITA","EOK",4704,"Alessandro Fancellu",1,0,0
+1,"KAZ","AST",4705,"Yevgeniy Fedorov",1,0,0
+1,"TPE","TBV",3186,"Chun Kai Feng",1,0,0
+1,"FRA","BBK",3639,"Thibault Ferasse",1,0,0
+1,"POR","W52",4294,"Jose Fernandes",1,0,0
+1,"ESP","COF",2685,"Ruben Fernandez",1,0,0
+1,"ESP","DKO",564,"Delio Fernandez",1,0,0
+1,"POR","XYZ",4225,"José Ferreira",1,0,0
+1,"FRA","TDE",4367,"Valentin Ferron",1,0,0
+1,"HUN","EOK",4712,"Erik Fetter",1,0,0
+1,"ITA","TSC",3568,"Pierpaolo Ficara",1,0,0
+1,"POR","EFP",2986,"Frederico Figueiredo",1,0,0
+1,"ITA","XYZ",3199,"Iuri Filosi",1,0,0
+1,"FRA","COF",4468,"Eddy Finé",1,0,0
+1,"ITA","BCF",4544,"Filippo Fiorelli",1,0,0
+1,"POR","KSU",3252,"Cesar Fonte",1,0,0
+1,"USA","PDC",2259,"Chris Fontecchio",1,0,0
+1,"ITA","VBG",1343,"Filippo Fortin",1,0,0
+1,"ITA","EOK",4247,"Lorenzo Fortunato",1,0,0
+1,"POL","VOS",3361,"Pawel Franczak",1,0,0
+1,"SUI","ACT",572,"Mathias Frank",1,0,0
+1,"ITA","THR",573,"Marco Frapporti",1,0,0
+1,"ITA","EOK",3738,"Mattia Frapporti",1,0,0
+1,"POR","RPB",3565,"Daniel Freitas",1,0,0
+1,"ESP","BBH",4531,"Ángel Fuentes",1,0,0
+1,"ITA","BCF",4230,"Davide Gabburo",1,0,0
+1,"FRA","TDE",4499,"Marlon Gaillard",1,0,0
+1,"FRA","ACT",581,"Tony Gallopin",1,0,0
+1,"ESP","EKP",4667,"Francisco Galván",1,0,0
+1,"ESP","KIN",583,"Marcos Garcia",1,0,0
+1,"ESP","EOK",4719,"Sergio Garcia Gonzalez",1,0,0
+1,"ESP","EKP",4737,"Carlos García",1,0,0
+1,"ESP","EKP",4727,"Raúl García",1,0,0
+1,"COL","CJR",3741,"Jhojan Garcia",1,0,0
+1,"FRA","XYZ",4073,"Adrien Garel",1,0,0
+1,"ITA","BCF",4275,"Andrea Garosio",1,0,0
+1,"USA","DQT",4047,"Ian Garrison",1,0,0
+1,"LUX","ACT",586,"Ben Gastauer",1,0,0
+1,"NZL","BSC",3742,"Aaron Gate",1,0,0
+1,"FRA","TDE",587,"Damien Gaudin",1,0,0
+1,"FRA","BBK",588,"Cyril Gautier",1,0,0
+1,"ITA","EOK",79,"Francesco Gavazzi",1,0,0
+1,"NZL","AFD",4510,"Samuel Gaze",1,0,0
+1,"ERI","TFS",2995,"Amanuel Gebrezgabihier",1,0,0
+1,"FRA","TDE",591,"Alexandre Geniez",1,0,0
+1,"FRA","ARK",3424,"Elie Gesbert",1,0,0
+1,"NED","TJV",15,"Robert Gesink",1,0,0
+1,"BEL","SVB",3991,"Robbe Ghys",1,0,0
+1,"GBR","RWC",4251,"Matthew Gibson",1,0,0
+1,"KAZ","AST",4037,"Yevgeniy Gidich",1,0,0
+1,"ESP","EUS",4506,"Peio Goikoetxea",1,0,0
+1,"POL","IGD",604,"Michal Golas",1,0,0
+1,"ISR","ISN",4062,"Omer Goldstein",1,0,0
+1,"POR","XYZ",3341,"Domingos Gonçalves",1,0,0
+1,"POR","DKO",3147,"José Gonçalves",1,0,0
+1,"PAN","THR",4581,"Roberto Carlos Gonzalez",1,0,0
+1,"ESP","CJR",4231,"David Gonzalez",1,0,0
+1,"PUR","MOV",4714,"Abner González",1,0,0
+1,"BEL","LTS",4494,"Kobe Goossens",1,0,0
+1,"ESP","EOK",4736,"Arturo Grávalos Lopez",1,0,0
+1,"GER","ISN",16,"André Greipel",1,0,0
+1,"BEL","LTS",4722,"Sébastien Grignard",1,0,0
+1,"ETH","BEX",2816,"Tsgabu Gebremariam Grmay",1,0,0
+1,"FRA","ARK",4467,"Donavan Grondin",1,0,0
+1,"KAZ","AST",1291,"Dmitriy Gruzdev",1,0,0
+1,"ITA","GTS",1267,"Andrea Guardini",1,0,0
+1,"ESP","KIN",3838,"Salvador Guardiola",1,0,0
+1,"ITA","GFC",260,"Jacopo Guarnieri",1,0,0
+1,"ESP","XYZ",4505,"Pablo Guerrero",1,0,0
+1,"FRA","GFC",4512,"Simon Gugliemi",1,0,0
+1,"NOR","ISN",3632,"Carl Fredrik Hagen",1,0,0
+1,"ETH","DKO",4574,"Mulu Hailemichael",1,0,0
+1,"AUT","TBV",1382,"Marko Haller",1,0,0
+1,"AUS","DSM",3749,"Chris Hamilton",1,0,0
+1,"DEN","TQA",2822,"Lasse Hansen",1,0,0
+1,"AUS","TJV",4466,"Chris Harper",1,0,0
+1,"JPN","KIN",3883,"Yusuke Hatanaka",1,0,0
+1,"AUS","TBV",17,"Heinrich Haussler",1,0,0
+1,"NED","BCY",4508,"Piotr Havik",1,0,0
+1,"NED","BCY",1301,"Yoeri Havik",1,0,0
+1,"USA","AEV",4139,"Gage Hecht",1,0,0
+1,"COL","IGD",2824,"Sebastian Henao",1,0,0
+1,"FIN","TNN",2669,"Joonas Henttala",1,0,0
+1,"BEL","IWG",4130,"Quinten Hermans",1,0,0
+1,"ESP","COF",266,"Jose Herrada",1,0,0
+1,"BEL","SVB",4684,"Rune Herregodts",1,0,0
+1,"NOR","UXT",4554,"Jacob Hindsgaul Madsen",1,0,0
+1,"CZE","XYZ",3152,"Karel Hnik",1,0,0
+1,"USA","WGC",4331,"Alex Hoehn",1,0,0
+1,"NED","EFN",2356,"Moreno Hofland",1,0,0
+1,"NED","TJV",2782,"Lennard Hofstede",1,0,0
+1,"SUI","ISN",623,"Reto Hollenstein",1,0,0
+1,"GER","MOV",4561,"Juri Hollman",1,0,0
+1,"USA","HBA",4245,"Liam Holowesko",1,0,0
+1,"CAN","AST",1197,"Hugo Houle",1,0,0
+1,"USA","EFN",632,"Alex Howes",1,0,0
+1,"NED","XYZ",2826,"Robbie Hucker",1,0,0
+1,"NOR","UXT",4573,"Morten Hulgaard",1,0,0
+1,"FRA","AUB",1137,"Tony Hurel",1,0,0
+1,"NOR","UXT",4491,"Jonas Iversby Hvideberg",1,0,0
+1,"ITA","THR",4477,"Alessandro Iacchi",1,0,0
+1,"JPN","XYZ",4584,"Shotaro Iribe",1,0,0
+1,"ESP","CJR",3751,"Jon Irissari",1,0,0
+1,"ESP","EUS",3969,"Julen Irizar",1,0,0
+1,"AUS","TNN",4233,"Declan Irvine",1,0,0
+1,"BEL","PSB",4120,"Eli Iserbyt",1,0,0
+1,"JPN","DKO",4568,"Masahiro Ishigami",1,0,0
+1,"ESP","EUS",3968,"Mikel Iturria",1,0,0
+1,"ESP","EKP",4753,"Álex Jaime",1,0,0
+1,"POL","VOS",645,"Sylwester Janiszewski",1,0,0
+1,"BEL","AFD",2827,"Roy Jans",1,0,0
+1,"RSA","TQA",2256,"Reinardt Janse van Rensburg",1,0,0
+1,"BEL","AFC",4093,"Jimmy Janssens",1,0,0
+1,"FRA","BBK",3164,"Quentin Jauregui",1,0,0
+1,"NOR","DKO",3581,"August Jensen",1,0,0
+1,"SLO","ANS",4660,"Žiga Jerman",1,0,0
+1,"AUS","DHB",3191,"Brenton Jones",1,0,0
+1,"AUS","ISN",4710,"Taj Jones",1,0,0
+1,"USA","RLY",3614,"Colin Joyce",1,0,0
+1,"ESP","EUS",4519,"Txomin Juaristi",1,0,0
+1,"FRA","DKO",1277,"Justin Jules",1,0,0
+1,"FRA","ACT",4668,"Anthony Jullien",1,0,0
+1,"DEN","BEX",1335,"Christopher Juul Jensen",1,0,0
+1,"POL","MSP",3122,"Jakub Kaczmarek",1,0,0
+1,"DEN","TFS",3367,"Alexander Kamp",1,0,0
+1,"NED","TNN",3444,"Brian Kamstra",1,0,0
+1,"GER","LTS",670,"Roger Kluge",1,0,0
+1,"NOR","NIP",4594,"Iver Johan Knotten",1,0,0
+1,"JPN","MTR",3756,"Marino Kobayashi",1,0,0
+1,"GER","IWG",3370,"Jonas Koch",1,0,0
+1,"RUS","GAZ",2622,"Pavel Kochetkov",1,0,0
+1,"JPN","UKO",3411,"Yuma Koishi",1,0,0
+1,"LTU","GFC",138,"Ignatas Konovalovas",1,0,0
+1,"ITA","BEX",4380,"Alexander Konychev",1,0,0
+1,"SLO","XYZ",676,"Kristjan Koren",1,0,0
+1,"NED","UKO",1397,"Raymond Kreder",1,0,0
+1,"NED","IWG",2360,"Wesley Kreder",1,0,0
+1,"CZE","GAZ",19,"Roman Kreuziger",1,0,0
+1,"RUS","XYZ",4314,"Vladislav Kulikov",1,0,0
+1,"RUS","XYZ",4153,"Alexandr Kulikovskiy",1,0,0
+1,"NOR","UXT",4563,"Kristian Kulset",1,0,0
+1,"NOR","UXT",4587,"Sindre Kulset",1,0,0
+1,"POL","MSP",1312,"Adrian Kurek",1,0,0
+1,"RUS","XYZ",4041,"Stepan Kurianov",1,0,0
+1,"HUN","TNN",1003,"Peter Kusztor",1,0,0
+1,"KAZ","GAZ",4532,"Anton Kuzmin",1,0,0
+1,"RUS","GAZ",2630,"Vyacheslav Kuznetsov",1,0,0
+1,"FRA","GFC",277,"Matthieu Ladagnous",1,0,0
+1,"FRA","COF",3957,"Victor Lafay",1,0,0
+1,"MON","BBH",3946,"Victor Langellotti",1,0,0
+1,"NED","EFN",83,"Sebastian Langeveld",1,0,0
+1,"ESP","CJR",3442,"Jonathan Lastra",1,0,0
+1,"ESP","CJR",4578,"Oier Lazkano",1,0,0
+1,"FRA","CCA",1084,"Johan Le Bon",1,0,0
+1,"FRA","GFC",2838,"Olivier Le Gac",1,0,0
+1,"FRA","DKO",3757,"Mathias Le Turnier",1,0,0
+1,"NED","TJV",4715,"Gijs Leemreize",1,0,0
+1,"FRA","BBK",142,"Cyril Lemoine",1,0,0
+1,"FRA","XRL",3903,"Jordan Levasseur",1,0,0
+1,"FRA","XRL",3893,"Jeremy Leveau",1,0,0
+1,"BEL","AFC",3983,"Senne Leysen",1,0,0
+1,"NED","TQA",1327,"Bert-Jan Lindeman",1,0,0
+1,"DEN","RIW",4536,"Christoffer Lisson",1,0,0
+1,"ESP","EUS",1054,"Juan Jose Lobato",1,0,0
+1,"ITA","BCF",4287,"Giovanni Lonardi",1,0,0
+1,"ESP","EKP",4735,"Jordi López",1,0,0
+1,"ESP","EKP",4497,"Diego Lopez",1,0,0
+1,"ESP","TFS",4492,"Juan Pedro Lopez",1,0,0
+1,"ESP","BBH",4240,"Juan Antonio López-Cózar",1,0,0
+1,"FRA","ARK",4500,"Matis Louvel",1,0,0
+1,"COL","TNN",2709,"David Lozano",1,0,0
+1,"SWE","GFC",1412,"Tobias Ludvigsson",1,0,0
+1,"POR","RPB",290,"Tiago Machado",1,0,0
+1,"BRN","TBV",4732,"Ahmed Madan",1,0,0
+1,"ESP","BBH",715,"Angel Madrazo",1,0,0
+1,"DEN","BPC",3611,"Martin Toft Madsen",1,0,0
+1,"ITA","BCF",3375,"Mirco Maestri",1,0,0
+1,"POR","W52",4293,"Jorge Magalhaes",1,0,0
+1,"USA","LLA",3356,"Tyler Magner",1,0,0
+1,"RUS","XYZ",2661,"Roman Maikin",1,0,0
+1,"FRA","TDE",4470,"Florian Maitre",1,0,0
+1,"FRA","AUB",3295,"Anthony Maldonado",1,0,0
+1,"ITA","ANS",3759,"Matteo Malucelli",1,0,0
+1,"ESP","MTR",720,"Francisco Mancebo",1,0,0
+1,"FRA","TDE",3041,"Lorenzo Manzin",1,0,0
+1,"ITA","UAD",292,"Marco Marcato",1,0,0
+1,"ITA","IWD",4301,"Moreno Marchetti",1,0,0
+1,"ITA","ANS",4721,"Leonardo Marchiori",1,0,0
+1,"POL","LTS",725,"Tomasz Marczynski",1,0,0
+1,"ITA","BCF",4269,"Umberto Marengo",1,0,0
+1,"BEL","SVB",4692,"Arne Marit",1,0,0
+1,"GER","DSM",4671,"Niklas Märkl",1,0,0
+1,"ESP","EKP",4663,"Marti  Marquez",1,0,0
+1,"GER","TJV",144,"Paul Martens",1,0,0
+1,"GER","TJV",28,"Tony Martin",1,0,0
+1,"ESP","CJR",4511,"Sergio Roman Martin",1,0,0
+1,"ITA","AST",3376,"Davide Martinelli",1,0,0
+1,"ESP","MOV",2843,"Luis Mas",1,0,0
+1,"JPN","BLZ",2615,"Nariyuki Masuda",1,0,0
+1,"ESP","EUS",737,"Luis Angel Mate",1,0,0
+1,"GER","XYZ",3764,"Marco Mathis",1,0,0
+1,"ITA","BCF",4542,"Fabio Mazzucco",1,0,0
+1,"AUS","XYZ",2681,"Jay McCarthy",1,0,0
+1,"NZL","BSC",3399,"Hayden McCormick",1,0,0
+1,"POR","W52",1090,"Jose Joao Mendes",1,0,0
+1,"COL","EKP",4729,"Daniel Mendez",1,0,0
+1,"COL","XYZ",4253,"Omar Mendoza",1,0,0
+1,"BEL","BWB",3990,"Milan Menten",1,0,0
+1,"BEL","SVB",4560,"Julian Mertens",1,0,0
+1,"BEL","BWB",3766,"Remy Mertz",1,0,0
+1,"POR","W52",4279,"Daniel Mestre",1,0,0
+1,"POR","W52",2613,"Ricardo Mestre",1,0,0
+1,"AUS","BEX",747,"Cameron Meyer",1,0,0
+1,"ITA","TBV",4707,"Jonathan Milan",1,0,0
+1,"CYP","GIS",4338,"Andreas Miltiadis",1,0,0
+1,"ITA","IWG",3767,"Riccardo Minali",1,0,0
+1,"UAE","UAD",3828,"Yousef Mohamed Mirza",1,0,0
+1,"GBR","XYZ",4077,"James Mitri",1,0,0
+1,"ITA","AFC",752,"Sacha Modolo",1,0,0
+1,"NED","BBH",4524,"Alex Molenaar",1,0,0
+1,"BEL","BWB",4255,"Kenny Molly",1,0,0
+1,"ITA","BCF",4523,"Alessandro Monaco",1,0,0
+1,"FRA","AIS",303,"Damien Monier",1,0,0
+1,"BEL","LTS",4655,"Sylvain Moniquet",1,0,0
+1,"ESP","MOV",4260,"Sebastian Mora",1,0,0
+1,"ESP","EKP",4661,"Ivan Moreno",1,0,0
+1,"FRA","BBK",3226,"Julien Morice",1,0,0
+1,"FRA","COF",4283,"Emmanuel Morin",1,0,0
+1,"BEL","XYZ",3984,"Julien Mortier",1,0,0
+1,"AUS","EFN",2680,"Lachlan Morton",1,0,0
+1,"FRA","XYZ",4074,"Justin Mottier",1,0,0
+1,"FRA","BBH",4708,"Gabriel Muller",1,0,0
+1,"AUS","TNN",4257,"Samuel Munday",1,0,0
+1,"COL","ANS",4229,"Daniel Muñoz",1,0,0
+1,"COL","UAD",4278,"Cristian Camilo Muñoz",1,0,0
+1,"ESP","CJR",4734,"Jokin Murguialday",1,0,0
+1,"USA","RLY",4068,"Kyle Murphy",1,0,0
+1,"DEN","RIW",4312,"Tobias Mørch Kongstad",1,0,0
+1,"DEN","DQT",761,"Michael Mørkøv",1,0,0
+1,"JPN","EFN",3769,"Hideto Nakane",1,0,0
+1,"KAZ","AST",4315,"Yuriy Natarov",1,0,0
+1,"ESP","XYZ",309,"Daniel Navarro",1,0,0
+1,"LAT","ISN",3770,"Krists Neilands",1,0,0
+1,"RUS","GAZ",4280,"Denis Nekrasov",1,0,0
+1,"ITA","TFS",3233,"Antonio Nibali",1,0,0
+1,"ESP","CJR",4340,"Joel Nicolau",1,0,0
+1,"JPN","BLZ",4064,"Hiroki Nishimura",1,0,0
+1,"ISR","ISN",3998,"Guy Niv",1,0,0
+1,"EST","XYZ",3896,"Aksel Nommela",1,0,0
+1,"BEL","ARK",3771,"Christophe Noppe",1,0,0
+1,"DEN","MOV",4250,"Mathias Norsgaard",1,0,0
+1,"SLO","TBV",3570,"Domen Novak",1,0,0
+1,"RUS","EKP",4701,"Savva Novikov",1,0,0
+1,"RUS","GAZ",3205,"Artem Nych",1,0,0
+1,"COL","XYZ",4281,"Diego Ochoa",1,0,0
+1,"JPN","DKO",4533,"Atsushi Oka",1,0,0
+1,"ESP","BBH",4741,"Ander Okamika",1,0,0
+1,"ITA","LTS",4514,"Stefano Oldani",1,0,0
+1,"NZL","BSC",3044,"James Oram",1,0,0
+1,"TUR","TSC",3916,"Ahmet Orken",1,0,0
+1,"USA","RLY",4069,"Emerson Oronte",1,0,0
+1,"ITA","THR",3855,"Davide Orrico",1,0,0
+1,"ESP","BBH",4664,"Felipe Orts",1,0,0
+1,"COL","BBH",3776,"Juan Felipe Osorio",1,0,0
+1,"COL","CJR",4272,"Alejandro Osorio",1,0,0
+1,"ITA","BOH",789,"Daniel Oss",1,0,0
+1,"FRA","TDE",3777,"Paul Ourselin",1,0,0
+1,"USA","EFN",3290,"Logan Owen",1,0,0
+1,"POL","ARK",2851,"Lukasz Owsian",1,0,0
+1,"NED","BWB",4300,"Mathijs Paasschens",1,0,0
+1,"EST","ARK",4717,"Markus Pajur",1,0,0
+1,"POL","XYZ",3124,"Michal Paluta",1,0,0
+1,"GER","BOH",4756,"Anton Palzer",1,0,0
+1,"BEL","BWB",4675,"Tom Paquot",1,0,0
+1,"COL","XYZ",3779,"Wilmar Paredes",1,0,0
+1,"ESP","EKP",4693,"José Félix Parra",1,0,0
+1,"POR","LAA",319,"Sergio Paulinho",1,0,0
+1,"GBR","THR",3656,"Daniel Pearson",1,0,0
+1,"COL","XYZ",3185,"Fernando Pedrazo Morales",1,0,0
+1,"HUN","ANS",4650,"János Pelikán",1,0,0
+1,"ITA","TQA",1145,"Matteo Pelucchi",1,0,0
+1,"ESP","BBH",4248,"Manuel Peñalver",1,0,0
+1,"SLO","ADR",3780,"David Per",1,0,0
+1,"FRA","COF",3354,"Anthony Perez",1,0,0
+1,"FRA","COF",2639,"Pierre-Luc Perichon",1,0,0
+1,"ITA","TNN",2857,"Andrea Peron",1,0,0
+1,"CAN","AST",3781,"Benjamin Perry",1,0,0
+1,"ITA","XYZ",4221,"Alessandro Pessot",1,0,0
+1,"LUX","THR",4483,"Jan Petelin",1,0,0
+1,"FRA","TDE",1122,"Adrien Petit",1,0,0
+1,"BEL","BWB",3782,"Dimitri Peyskens",1,0,0
+1,"GER","TJV",3180,"Christoph Pfingsten",1,0,0
+1,"USA","TNN",4662,"Logan Phippen",1,0,0
+1,"ITA","AST",4723,"Andrea Piccolo",1,0,0
+1,"FRA","ARK",1085,"Laurent Pichon",1,0,0
+1,"POR","XYZ",2985,"Edgar Pinto",1,0,0
+1,"BEL","XYZ",4070,"Emiel Planckaert",1,0,0
+1,"ITA","BIA",3562,"Davide Plebani",1,0,0
+1,"POL","XYZ",3336,"Michal Podlaski",1,0,0
+1,"ITA","TNN",3784,"Umberto Poli",1,0,0
+1,"UKR","XYZ",3600,"Oleksandr Polivoda",1,0,0
+1,"AUT","BOH",3278,"Lukas Pöstlberger",1,0,0
+1,"ESP","XYZ",3655,"Benjamin Prades",1,0,0
+1,"AUT","XYZ",1350,"Georg Preidler",1,0,0
+1,"DEN","UXT",4677,"Johan Price-Pejtersen",1,0,0
+1,"FRA","ACT",4669,"Nicolas Prodhomme",1,0,0
+1,"KAZ","AST",4590,"Vadim Pronskiy",1,0,0
+1,"DEN","RIW",1289,"Rasmus Quaade",1,0,0
+1,"GBR","TFS",4373,"Charlie Quarterman",1,0,0
+1,"USA","HBA",4259,"Sean Quinn",1,0,0
+1,"COL","ARK",2862,"Dayer Quintana",1,0,0
+1,"EST","XYZ",3598,"Mihkel Raim",1,0,0
+1,"SRB","DKO",4381,"Dušan Rajović",1,0,0
+1,"ITA","EOK",3786,"Edward Ravasi",1,0,0
+1,"ALG","TSG",2645,"Youcef Reguigui",1,0,0
+1,"USA","TFS",1222,"Kiel Reijnen",1,0,0
+1,"POR","EFP",3788,"Rafael Reis",1,0,0
+1,"FRA","ISN",4526,"Alexis Renard",1,0,0
+1,"CZE","EKP",4718,"Vojtěch Řepa",1,0,0
+1,"NOR","UXT",4541,"Erik Nordsaeter Resell",1,0,0
+1,"COL","ANS",3443,"Jhonatan Restrepo",1,0,0
+1,"BEL","BWB",4685,"Laurenz Rex",1,0,0
+1,"COL","XYZ",3789,"Aldemar Reyes Ortega",1,0,0
+1,"BEL","SVB",4657,"Jens Reynders",1,0,0
+1,"FRA","BBK",1136,"Kevin Reza",1,0,0
+1,"USA","EVO",4059,"Brendan Rhim",1,0,0
+1,"AUS","ACA",4050,"Michael Rice",1,0,0
+1,"GBR","AFC",4456,"Alexandar Richardson",1,0,0
+1,"ARG","UAD",2317,"Maximiliano Richeze",1,0,0
+1,"NED","AFC",3790,"Oscar Riesebeek",1,0,0
+1,"RUS","GAZ",4304,"Petr Rikunov",1,0,0
+1,"FRA","ARK",3913,"Alan Riou",1,0,0
+1,"CRC","BCF",3791,"Kevin Rivera",1,0,0
+1,"ITA","EOK",4688,"Samuele Rivi",1,0,0
+1,"BEL","BWB",3792,"Ludovic Robeet",1,0,0
+1,"IRL","DSM",153,"Nicholas Roche",1,0,0
+1,"DEN","UXT",4546,"Frederik Rodenberg",1,0,0
+1,"POR","W52",4238,"João Rodrigues",1,0,0
+1,"ESP","IGD",4453,"Carlos Rodriguez",1,0,0
+1,"COL","XYZ",3793,"Jhon Rodriguez",1,0,0
+1,"ESP","MOV",155,"Jose Joaquin Rojas",1,0,0
+1,"ITA","XYZ",4284,"Francesco Romano",1,0,0
+1,"ESP","AST",4750,"Javier Romo",1,0,0
+1,"NED","TJV",3181,"Timo Roosen",1,0,0
+1,"ESP","EOK",4697,"Alejandro Ropero",1,0,0
+1,"FRA","XYZ",851,"Stéphane Rossetto",1,0,0
+1,"SUI","AFD",4296,"Loris Rouiller",1,0,0
+1,"RUS","GAZ",853,"Ivan Rovny",1,0,0
+1,"HUN","TNV",3011,"Balazs Rozsa",1,0,0
+1,"COL","XYZ",347,"Miguel Rubiano",1,0,0
+1,"ESP","EKP",4731,"Ibon Ruiz",1,0,0
+1,"FRA","ARK",4008,"Clement Russo",1,0,0
+1,"GER","EFN",4350,"Jonas Rutsch",1,0,0
+1,"RUS","XYZ",2982,"Aleksey Rybalkin",1,0,0
+1,"ITA","COF",158,"Fabio Sabatini",1,0,0
+1,"ESP","CJR",3425,"Héctor Saez",1,0,0
+1,"UZB","TND",4313,"Ulugbek Saidov",1,0,0
+1,"POL","COF",3956,"Szymon Sajnok",1,0,0
+1,"GER","DSM",4566,"Martin Salmon",1,0,0
+1,"BLR","MCC",859,"Branislau Samoilau",1,0,0
+1,"ESP","BBH",4748,"Pelayo Sanchez",1,0,0
+1,"ESP","TAV",4277,"Angel Sanchez",1,0,0
+1,"COL","MED",4060,"Brayan Sanchez",1,0,0
+1,"ESP","EKP",1164,"Enrique Sanz",1,0,0
+1,"NOR","UXT",4496,"Lars Saugstad",1,0,0
+1,"ITA","AFC",2665,"Kristian Sbaragli",1,0,0
+1,"ITA","GAZ",4537,"Cristian Scaroni",1,0,0
+1,"SUI","ACT",870,"Michael Schär",1,0,0
+1,"GER","BOH",1062,"Andreas Schillinger",1,0,0
+1,"CZE","EKA",3794,"Michal Schlegel",1,0,0
+1,"SUI","TQA",4703,"Mauro Schmid",1,0,0
+1,"SUI","THR",4659,"Joab Schneiter",1,0,0
+1,"AUT","BBK",4310,"Sebastian Schönberger",1,0,0
+1,"DEN","RIW",4487,"Jesper Schultz",1,0,0
+1,"AUS","BEX",3796,"Nicholas Schultz",1,0,0
+1,"AUS","BEX",4091,"Callum Scotson",1,0,0
+1,"GBR","DHB",3904,"Jacob Scott",1,0,0
+1,"NZL","EFN",3338,"Thomas Scully",1,0,0
+1,"GER","BOH",1286,"Rüdiger Selig",1,0,0
+1,"ITA","AMO",3188,"Manuel Senni",1,0,0
+1,"ARG","ANS",2316,"Eduardo Sepulveda",1,0,0
+1,"BRA","XYZ",3941,"Nicolas Sessler",1,0,0
+1,"ESP","EOK",4651,"Diego Sevilla",1,0,0
+1,"ESP","MED",879,"Oscar Sevilla",1,0,0
+1,"BEL","XYZ",4344,"Guillaume Seye",1,0,0
+1,"RUS","GAZ",2268,"Evgeny Shalunov",1,0,0
+1,"GBR","RWC",3798,"James Shaw",1,0,0
+1,"USA","RLY",4745,"Magnus Sheffield",1,0,0
+1,"FRA","TDE",880,"Romain Sicard",1,0,0
+1,"GER","TBV",357,"Marcel Sieberg",1,0,0
+1,"POR","TAV",3952,"Joaquim Silva",1,0,0
+1,"ITA","GTS",3221,"Paolo Simion",1,0,0
+1,"NED","GFC",1395,"Ramon Sinkeldam",1,0,0
+1,"LTU","DKO",2318,"Evaldas Siskevicius",1,0,0
+1,"NOR","UXT",4553,"Iver Skaarseth",1,0,0
+1,"DEN","TFS",4720,"Mattias Skjelmose Jensen",1,0,0
+1,"NOR","UXT",4513,"Torjus Sleen",1,0,0
+1,"NED","ABC",3187,"Ivar Slik",1,0,0
+1,"RSA","BBH",3927,"Willie Smit",1,0,0
+1,"ITA","AST",4570,"Matteo Sobrero",1,0,0
+1,"COL","XYZ",3951,"Nelson Soto",1,0,0
+1,"ESP","EUS",4459,"Antonio Jesus Soto",1,0,0
+1,"FRA","TDE",1143,"Geoffrey Soupe",1,0,0
+1,"ITA","XYZ",3803,"Matteo Spreafico",1,0,0
+1,"BEL","SVB",2687,"Thomas Sprengers",1,0,0
+1,"ITA","THR",3223,"Riccardo Stacchiotti",1,0,0
+1,"POL","MSP",3343,"Adam Stachowiak",1,0,0
+1,"BEL","XYZ",1157,"Joeri Stallaert",1,0,0
+1,"KAZ","AST",3571,"Nikita Stalnov",1,0,0
+1,"RUS","STC",3190,"Mamyr Stash",1,0,0
+1,"BEL","DQT",2643,"Stijn Steels",1,0,0
+1,"GBR","XYZ",3047,"Thomas Stewart",1,0,0
+1,"SRB","THR",4591,"Veljko Stojnić",1,0,0
+1,"DEN","TQA",4263,"Andreas Stokbro",1,0,0
+1,"GER","DSM",4317,"Florian Stork",1,0,0
+1,"RUS","GAZ",3834,"Dmitry Strakhov",1,0,0
+1,"SUI","VBG",3384,"Colin Stüssi",1,0,0
+1,"COL","XYZ",1278,"Juan Pablo Suarez",1,0,0
+1,"AUS","TQA",4538,"Dylan Sunderland",1,0,0
+1,"ESP","BBH",4237,"Jaume Sureda",1,0,0
+1,"BEL","AFC",4649,"Diether Sweeck",1,0,0
+1,"AUS","LTS",4088,"Harrison Sweeny",1,0,0
+1,"GBR","ARK",4127,"Connor Swift",1,0,0
+1,"USA","RLY",4137,"Keegan Swirbul",1,0,0
+1,"EST","IWG",54,"Rein Taaramäe",1,0,0
+1,"ITA","ANS",4652,"Filippo Tagliani",1,0,0
+1,"BEL","AFC",4246,"Lionel Taminiaux",1,0,0
+1,"GBR","TQA",4090,"Harry Tanfield",1,0,0
+1,"GBR","DHB",1305,"Andrew Tennant",1,0,0
+1,"ERI","ANS",4681,"Natnael Tesfatsion",1,0,0
+1,"SUI","VBG",3432,"Roland Thalmann",1,0,0
+1,"GBR","AFC",2721,"Scott Thwaites",1,0,0
+1,"ITA","TFS",4724,"Antonio Tiberi",1,0,0
+1,"NOR","UXT",3884,"Rasmus Fossum Tiller",1,0,0
+1,"ITA","BCF",3232,"Alessandro Tonelli",1,0,0
+1,"ESP","MTR",918,"Jose Vicente Toribio",1,0,0
+1,"ESP","MOV",3837,"Albert Torres",1,0,0
+1,"ITA","THR",4564,"Leonardo Tortomasi",1,0,0
+1,"ITA","XYZ",3645,"Paolo Toto",1,0,0
+1,"FRA","COF",4742,"Hugo Toumire",1,0,0
+1,"FRA","ACT",3901,"Damien Touze",1,0,0
+1,"GBR","DHB",4343,"Rory Townsend",1,0,0
+1,"ITA","BCF",4725,"Tomas Trainini",1,0,0
+1,"FRA","DKO",3958,"Julien Trarieux",1,0,0
+1,"ITA","UAD",3806,"Oliviero Troia",1,0,0
+1,"GBR","AFC",4461,"Ben Tulett",1,0,0
+1,"CZE","RSW",3653,"Daniel Turek",1,0,0
+1,"NED","DSM",2780,"Martijn Tusveld",1,0,0
+1,"JPN","XYZ",3809,"Kohei Uchima",1,0,0
+1,"COL","ANS",4755,"Abner Umba",1,0,0
+1,"ESP","CJR",4463,"Carmelo Urbano",1,0,0
+1,"NOR","UXT",4567,"Martin Urianstad",1,0,0
+1,"CZE","TQA",4295,"Karel Vacek",1,0,0
+1,"CZE","GAZ",4752,"Mathias Vacek",1,0,0
+1,"BEL","BWB",2881,"Boris Vallee",1,0,0
+1,"BEL","ISN",1413,"Tom Van Asbroeck",1,0,0
+1,"BEL","TIS",3651,"Elias Van Breussegem",1,0,0
+1,"NED","EFN",4140,"Julius Van Den Berg",1,0,0
+1,"NED","GFC",4656,"Lars van den Berg",1,0,0
+1,"BEL","SVB",4521,"Fabio Van den Bossche",1,0,0
+1,"NED","BTL",3211,"Lars van der Haar",1,0,0
+1,"NED","IWG",3811,"Taco van der Hoorn",1,0,0
+1,"BEL","LTS",2237,"Tosh Van der Sande",1,0,0
+1,"NED","EKP",4674,"Danny van der Tuuk",1,0,0
+1,"NED","THR",4670,"Wout van Elzakker",1,0,0
+1,"NED","THR",3227,"Etienne Van Empel",1,0,0
+1,"USA","EFN",929,"Tejay van Garderen",1,0,0
+1,"BEL","BBK",1272,"Jonas Van Genechten",1,0,0
+1,"BEL","LTS",4687,"Maxim Van Gils",1,0,0
+1,"BEL","ACT",1353,"Gijs Van Hoecke",1,0,0
+1,"BEL","TJV",3812,"Nathan Van Hooydonck",1,0,0
+1,"BEL","XYZ",1171,"Guillaume Van Keirsbulck",1,0,0
+1,"NED","IWG",3867,"Corne Van Kessel",1,0,0
+1,"BEL","IWG",1249,"Kevin Van Melsen",1,0,0
+1,"BEL","LTS",4224,"Brent Van Moer",1,0,0
+1,"NED","IWG",1230,"Boy van Poppel",1,0,0
+1,"BEL","SVB",4220,"Aaron Van Poucke",1,0,0
+1,"BEL","SVB",3289,"Kenneth Van Rooy",1,0,0
+1,"NED","BCY",3830,"Jan-Willem van Schip",1,0,0
+1,"BEL","DSM",4480,"Ilan Van Wilder",1,0,0
+1,"RSA","XYZ",2664,"Johan Van Zyl",1,0,0
+1,"BEL","COF",2676,"Kenneth Vanbilsen",1,0,0
+1,"BEL","SVB",4694,"Ward Vanhoof",1,0,0
+1,"BEL","XYZ",942,"Maxime Vantomme",1,0,0
+1,"NOR","UAD",1417,"Stake Vegard Laengen",1,0,0
+1,"ITA","ANS",4576,"Nicola Venchiarutti",1,0,0
+1,"BEL","BWB",4702,"Quentin Venner",1,0,0
+1,"USA","DSM",4243,"Kevin Vermaerke",1,0,0
+1,"NED","VWE",1175,"Coen Vermeltfoort",1,0,0
+1,"BEL","XRL",3908,"Emiel Vermeulen",1,0,0
+1,"BEL","XYZ",1173,"Julien Vermote",1,0,0
+1,"BEL","LTS",4691,"Viktor Verschaeve",1,0,0
+1,"BEL","LTS",4700,"Xandres Vervloesem",1,0,0
+1,"BEL","SVB",3988,"Aaron Verwilst",1,0,0
+1,"POR","EOK",4699,"Daniel Viegas",1,0,0
+1,"ITA","ANS",4252,"Mattia Viel",1,0,0
+1,"ESP","ANS",4754,"Martí Vigo",1,0,0
+1,"POR","W52",3167,"Ricardo Vilela",1,0,0
+1,"MEX","XYZ",4138,"Luis Villalobos",1,0,0
+1,"ITA","MOV",2772,"David Villella",1,0,0
+1,"FRA","XYZ",3814,"Leo Vincent",1,0,0
+1,"AUS","AFC",4711,"Jay Vine",1,0,0
+1,"POR","W52",3839,"Rui Pedro Vinhas",1,0,0
+1,"DEN","TQA",4282,"Emil Vinjebo",1,0,0
+1,"ITA","COF",4460,"Attilio Viviani",1,0,0
+1,"FRA","TDE",2725,"Alexis Vuillermoz",1,0,0
+1,"NOR","UXT",4588,"Syver Waerstad",1,0,0
+1,"BEL","COF",1209,"Jelle Wallays",1,0,0
+1,"DEN","XYZ",4307,"Rasmus Bøgh Wallin",1,0,0
+1,"GBR","BOH",4362,"Matthew Walls",1,0,0
+1,"GER","AFC",3283,"Philipp Walsleben",1,0,0
+1,"DEN","BOH",4728,"Frederik Wandahl",1,0,0
+1,"CHN","HEN",3815,"Meiyin Wang",1,0,0
+1,"BEL","SVB",3987,"Jordi Warlop",1,0,0
+1,"NED","ARK",4007,"Bram Welten",1,0,0
+1,"AUS","EFN",4290,"James Whelan",1,0,0
+1,"BEL","SVB",4265,"Thimo Willems",1,0,0
+1,"GBR","TBV",4262,"Stephen Williams",1,0,0
+1,"BEL","BWB",4565,"Luc Wirtgen",1,0,0
+1,"LUX","BWB",4267,"Tom Wirtgen",1,0,0
+1,"POL","TQA",3161,"Lukasz Wisniowski",1,0,0
+1,"BEL","TIS",3817,"Enzo Wouters",1,0,0
+1,"AUS","IGD",1260,"Cameron Wurf",1,0,0
+1,"BEL","TJV",963,"Maarten Wynants",1,0,0
+1,"SUI","XYZ",964,"Danilo Wyss",1,0,0
+1,"NOR","UXT",4698,"Søren Wærenskjold",1,0,0
+1,"JPN","KIN",3201,"Genki Yamamoto",1,0,0
+1,"JPN","XYZ",4065,"Hayato Yoshida",1,0,0
+1,"USA","ELV",2731,"Eric Young",1,0,0
+1,"ITA","BCF",4066,"Filippo Zaccanti",1,0,0
+1,"KAZ","AST",3545,"Artyom Zakharov",1,0,0
+1,"ITA","BCF",4545,"Filippo Zana",1,0,0
+1,"ITA","BCF",4683,"Enrico Zanoncello",1,0,0
+1,"ITA","THR",2650,"Edoardo Zardini",1,0,0
+1,"KAZ","BEX",968,"Andrey Zeits",1,0,0
+1,"BLR","EUS",4539,"Dzmitry Zhyhunou",1,0,0
+1,"NED","SEG",4000,"Maikel Zijlaard",1,0,0
+1,"GER","IWG",4547,"Georg Zimmermann",1,0,0
+1,"FRA","DKO",4733,"Axel Zingle",1,0,0
+1,"ITA","BCF",4690,"Samuele Zoccarato",1,0,0
+1,"AUT","RSW",2352,"Riccardo Zoidl",1,0,0
+1,"CAN","RLY",4575,"Nickolas Zukowsky",1,0,0
+1,"GER","BOH",4744,"Ben Zwiehoff",1,0,0
