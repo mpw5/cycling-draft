@@ -1,27 +1,6 @@
 require 'rails_helper'
 
 RSpec.describe TeamsController, type: :request do
-  # describe 'GET /teams' do
-  #   let!(:league) { create league }
-  #   let!(:team) { create_list :team, 3, league }
-  #   before { get league_teams_path }
-  #
-  #   it 'renders successfully' do
-  #     expect(response).to have_http_status(:ok)
-  #   end
-  #
-  #   it 'displays the page heading' do
-  #     expect(response.body).to include('Leagues')
-  #   end
-  #
-  #   it 'the displays the name of every league' do
-  #     response_body = CGI.unescapeHTML(response.body)
-  #     expect(response_body).to include(leagues[0].name)
-  #     expect(response_body).to include(leagues[1].name)
-  #     expect(response_body).to include(leagues[2].name)
-  #   end
-  # end
-
   describe 'GET /leagues/:id/teams/new' do
     let!(:league) { create :league }
     before do
@@ -72,6 +51,21 @@ RSpec.describe TeamsController, type: :request do
     it 'displays the team name' do
       response_body = CGI.unescapeHTML(response.body)
       expect(response_body).to include(team.name)
+    end
+  end
+
+  describe 'DELETE /league/:id' do
+    let!(:league) { create :league }
+    let!(:team) { create :team, league: league }
+
+    before { delete league_team_path(league, team) }
+
+    it 'deletes the team' do
+      expect(Team.count).to eq 0
+    end
+
+    it 'displays the league name' do
+      expect(response).to redirect_to(league_path(league))
     end
   end
 end

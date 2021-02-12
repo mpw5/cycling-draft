@@ -13,7 +13,12 @@ class TeamsController < ApplicationController
   end
 
   def show
-    @team = Team.find(params[:id])
+    team
+  end
+
+  def destroy
+    team.destroy
+    redirect_to league_path(league)
   end
 
   private
@@ -24,5 +29,9 @@ class TeamsController < ApplicationController
 
   def league
     @league ||= League.find(params[:league_id])
+  end
+
+  def team
+    @team ||= Team.find(params[:id])
   end
 end

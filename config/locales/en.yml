@@ -15,3 +15,5 @@ en:
   teams:
     new:
       title: Create a new team
+    show:
+      delete: Delete this team
