@@ -17,12 +17,21 @@ class LeaguesController < ApplicationController
   end
 
   def show
-    @league = League.find(params[:id])
+    league
+  end
+
+  def destroy
+    league.destroy
+    redirect_to leagues_path
   end
 
   private
 
   def league_params
     params.require(:league).permit(:name)
+  end
+
+  def league
+    @league ||= League.find(params[:id])
   end
 end

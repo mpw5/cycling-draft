@@ -5,7 +5,7 @@ module LeagueStateMachine
   included do
     include AASM
 
-    aasm do
+    aasm :column => 'aasm_state' do
       state :pre_draft, initial: true
       state :drafting
       state :post_draft

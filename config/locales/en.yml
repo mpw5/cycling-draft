@@ -11,6 +11,7 @@ en:
       title: Create a new league
     show:
       create: Create a team
+      delete: Delete this league
   teams:
     new:
       title: Create a new team

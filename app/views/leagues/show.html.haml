@@ -7,4 +7,7 @@
 
     = link_to t('.create'), new_league_team_path(@league)
 
+    - if @league.pre_draft?
+      = link_to t('.delete'), league_path(@league), method: :delete, data: { confirm: "Are you sure?" }
+
     = link_to t('generic.back'), :leagues

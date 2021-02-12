@@ -68,4 +68,18 @@ RSpec.describe LeaguesController, type: :request do
       expect(response_body).to include(league.name)
     end
   end
+
+  describe 'DELETE /league/:id' do
+    let!(:league) { create :league }
+
+    before { delete league_path(league) }
+
+    it 'deletes the league' do
+      expect(League.count).to eq 0
+    end
+
+    it 'displays the league name' do
+      expect(response).to redirect_to(leagues_path)
+    end
+  end
 end
