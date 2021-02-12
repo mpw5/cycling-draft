@@ -3,4 +3,23 @@
   %body
     %h1{style:'text-align:center;'}= @team.name
 
+    - if @team.league.pre_draft?
+      %p Waiting for draft to start
+    - else
+      %table{border: 0}
+        %tbody
+          %tr
+            %td Country
+            %td Team
+            %td Rider
+            %td Price
+            %td Previous score
+          - Rider.all.each do |rider|
+            %tr
+              %td= rider.country
+              %td= rider.team
+              %td= rider.name
+              %td= rider.price.to_i
+              %td= rider.previous_score.to_i
+
     = link_to t('generic.back'), @team.league
