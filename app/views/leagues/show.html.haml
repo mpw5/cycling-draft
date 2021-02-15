@@ -1,13 +1,26 @@
 %html
   %head
   %body
-    %h1{style:'text-align:center;'}= @league.name
+    %h1= @league.name
+
+    - if @league.pre_draft?
+      %p Waiting for draft to start
+
     - @league&.teams&.each do |team|
       %p= link_to(team.name, league_team_path(@league.id, team.id))
+
 
     = link_to t('.create'), new_league_team_path(@league)
 
     - if @league.pre_draft?
-      = link_to t('.delete'), league_path(@league), method: :delete, data: { confirm: "Are you sure?" }
+      = link_to t('.delete'),
+          league_path(@league),
+          method: :delete,
+          data: { confirm: 'Are you sure?' }
+
+      = link_to t('.start'),
+          league_path(@league),
+          method: :patch,
+          data: { confirm: 'Are you sure?' }
 
     = link_to t('generic.back'), :leagues

@@ -12,6 +12,7 @@ en:
     show:
       create: Create a team
       delete: Delete this league
+      start: Start the draft
   teams:
     new:
       title: Create a new team

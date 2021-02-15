@@ -1,5 +1,5 @@
 FactoryBot.define do
   factory :league do
-    name { Faker::Sports::Football.unique.competition }
+    name { Faker::Company.unique.name }
   end
 end

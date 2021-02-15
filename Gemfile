@@ -18,9 +18,12 @@ gem 'webpacker', '~> 5.0'
 
 group :development, :test do
   gem 'awesome_print'
+  gem 'brakeman'
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
+  gem 'haml_lint', require: false
   gem 'highline'
   gem 'pry-byebug'
+  gem 'rails_best_practices'
   gem 'rspec-rails'
   gem 'rubocop', require: false
   gem 'rubocop-performance'

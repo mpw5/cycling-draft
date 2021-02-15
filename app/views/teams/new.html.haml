@@ -1,10 +1,11 @@
 %html
   %head
   %body
-    %h1{style:'text-align:center;'}= t '.title'
+    %h1= t '.title'
     = form_with model: [@league, @team] do |form|
       - if @team.errors
-        %p #{@team.errors.full_messages.first}
+        %p
+          = @team.errors.full_messages.first.to_s
 
       %div
         = form.label :name
@@ -12,5 +13,3 @@
 
       %p
         = form.submit
-
-    -# = link_to t('generic.back'), league_path(@team.league)

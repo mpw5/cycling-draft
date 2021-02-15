@@ -82,4 +82,19 @@ RSpec.describe LeaguesController, type: :request do
       expect(response).to redirect_to(leagues_path)
     end
   end
+
+  describe 'PATCH /league/:id' do
+    let!(:league) { create :league, aasm_state: :pre_draft }
+
+    before { patch league_path(league) }
+
+    it 'starts the draft' do
+      expect(league.reload.aasm_state).to eq 'drafting'
+    end
+
+    it 'reloads the page without the start button' do
+      response_body = CGI.unescapeHTML(response.body)
+      expect(response_body).not_to include('Start')
+    end
+  end
 end

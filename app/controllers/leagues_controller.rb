@@ -25,6 +25,11 @@ class LeaguesController < ApplicationController
     redirect_to leagues_path
   end
 
+  def update
+    league.draft_started!
+    render :show
+  end
+
   private
 
   def league_params
