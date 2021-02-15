@@ -7,5 +7,5 @@ Rails.application.load_tasks
 
 unless Rails.env.production?
   task(:default).clear
-  task default: %i[rubocop haml_lint brakeman:check spec]
+  task default: %i[rubocop haml_lint brakeman:check spec cucumber]
 end

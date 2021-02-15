@@ -31,6 +31,8 @@ group :development, :test do
 end
 
 group :development do
+  gem 'cucumber-rails', require: false
+  gem 'database_cleaner'
   gem 'listen', '~> 3.3'
   gem 'rack-mini-profiler', '~> 2.0'
   gem 'simplecov', require: false
