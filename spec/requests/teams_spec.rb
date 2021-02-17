@@ -1,9 +1,12 @@
 require 'rails_helper'
 
 RSpec.describe TeamsController, type: :request do
+  let(:user) { create :user }
+
   describe 'GET /leagues/:id/teams/new' do
     let!(:league) { create :league }
     before do
+      login_as user
       get new_league_team_path(league)
     end
 
@@ -18,6 +21,7 @@ RSpec.describe TeamsController, type: :request do
 
   describe 'POST /leagues/:id/team' do
     let!(:league) { create :league }
+    before { login_as user }
     subject { post league_teams_path(league), params: { team: { name: 'name' } } }
 
     it 'creates a new team' do
@@ -41,8 +45,10 @@ RSpec.describe TeamsController, type: :request do
   describe 'GET /league/:id/team/:id' do
     let!(:league) { create :league }
     let!(:team) { create :team, league: league }
-
-    before { get league_team_path(league, team) }
+    before do
+      login_as user
+      get league_team_path(league, team)
+    end
 
     it 'renders successfully' do
       expect(response).to have_http_status(:ok)
@@ -57,8 +63,10 @@ RSpec.describe TeamsController, type: :request do
   describe 'DELETE /league/:id' do
     let!(:league) { create :league }
     let!(:team) { create :team, league: league }
-
-    before { delete league_team_path(league, team) }
+    before do
+      login_as user
+      delete league_team_path(league, team)
+    end
 
     it 'deletes the team' do
       expect(Team.count).to eq 0

@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  root to: 'home#index'
+  devise_for :users
+  root to: 'leagues#index'
 
   resources :leagues, except: [:edit] do
     resources :teams, except: %i[edit update index]

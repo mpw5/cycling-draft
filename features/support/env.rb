@@ -6,6 +6,10 @@
 
 require 'cucumber/rails'
 require 'factory_bot'
+require 'capybara'
+require 'capybara/cucumber'
+require 'selenium/webdriver'
+require 'webdrivers'
 
 # frozen_string_literal: true
 
@@ -32,6 +36,13 @@ require 'factory_bot'
 ActionController::Base.allow_rescue = false
 
 World(FactoryBot::Syntax::Methods)
+World(Warden::Test::Helpers)
+
+Around do |_scenario, block|
+  Warden.test_mode!
+  block.call
+  Warden.test_reset!
+end
 
 Webdrivers::Chromedriver.update
 

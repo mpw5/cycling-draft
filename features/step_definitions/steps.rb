@@ -1,3 +1,8 @@
+Given('I am logged in as a user') do
+  @user = create(:user)
+  login_as @user
+end
+
 Given('I visit the Leagues page') do
   visit leagues_path
 end

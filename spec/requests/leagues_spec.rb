@@ -1,9 +1,14 @@
 require 'rails_helper'
 
 RSpec.describe LeaguesController, type: :request do
+  let(:user) { create :user }
+
   describe 'GET /leagues' do
     let!(:leagues) { create_list :league, 3 }
-    before { get leagues_path }
+    before do
+      login_as user
+      get leagues_path
+    end
 
     it 'renders successfully' do
       expect(response).to have_http_status(:ok)
@@ -22,7 +27,10 @@ RSpec.describe LeaguesController, type: :request do
   end
 
   describe 'GET /leagues/new' do
-    before { get new_league_path }
+    before do
+      login_as user
+      get new_league_path
+    end
 
     it 'renders successfully' do
       expect(response).to have_http_status(:ok)
@@ -34,6 +42,7 @@ RSpec.describe LeaguesController, type: :request do
   end
 
   describe 'POST /league' do
+    before { login_as user }
     subject { post leagues_path, params: { league: { name: 'name' } } }
 
     it 'creates a new league' do
@@ -56,8 +65,10 @@ RSpec.describe LeaguesController, type: :request do
 
   describe 'GET /league/:id' do
     let!(:league) { create :league }
-
-    before { get league_path(league) }
+    before do
+      login_as user
+      get league_path(league)
+    end
 
     it 'renders successfully' do
       expect(response).to have_http_status(:ok)
@@ -71,8 +82,10 @@ RSpec.describe LeaguesController, type: :request do
 
   describe 'DELETE /league/:id' do
     let!(:league) { create :league }
-
-    before { delete league_path(league) }
+    before do
+      login_as user
+      delete league_path(league)
+    end
 
     it 'deletes the league' do
       expect(League.count).to eq 0
@@ -85,8 +98,10 @@ RSpec.describe LeaguesController, type: :request do
 
   describe 'PATCH /league/:id' do
     let!(:league) { create :league, aasm_state: :pre_draft }
-
-    before { patch league_path(league) }
+    before do
+      login_as user
+      patch league_path(league)
+    end
 
     it 'starts the draft' do
       expect(league.reload.aasm_state).to eq 'drafting'

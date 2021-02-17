@@ -43,6 +43,7 @@ group :test do
   gem 'cucumber', require: false
   gem 'cucumber-rails', require: false
   gem 'database_cleaner'
+  gem 'launchy'
   gem 'selenium-webdriver'
   gem 'simplecov', require: false
   gem 'simplecov-rcov'

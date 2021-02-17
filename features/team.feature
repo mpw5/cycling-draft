@@ -1,6 +1,7 @@
 Feature: Team maintenance
   Scenario: I create a team
     Given a league called 'Test league' exists
+    And I am logged in as a user
     And I visit the 'Test league' league page
     When I click link 'Create a team'
     Then I am on the 'Create a new team' page
@@ -11,6 +12,7 @@ Feature: Team maintenance
 
   Scenario: I delete a team
     Given a league called 'Test league' exists
+    And I am logged in as a user
     And I visit the 'Test league' league page
     When I click link 'Create a team'
     Then I am on the 'Create a new team' page
