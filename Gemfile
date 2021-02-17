@@ -31,14 +31,21 @@ group :development, :test do
 end
 
 group :development do
-  gem 'cucumber-rails', require: false
-  gem 'database_cleaner'
   gem 'listen', '~> 3.3'
   gem 'rack-mini-profiler', '~> 2.0'
-  gem 'simplecov', require: false
-  gem 'simplecov-rcov'
   gem 'spring'
   gem 'web-console', '>= 4.1.0'
+end
+
+group :test do
+  gem 'capybara', '>= 3.32.2', '< 4.0'
+  gem 'cucumber', require: false
+  gem 'cucumber-rails', require: false
+  gem 'database_cleaner'
+  gem 'selenium-webdriver'
+  gem 'simplecov', require: false
+  gem 'simplecov-rcov'
+  gem 'webdrivers', '~> 4.5'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
