@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_02_17_110935) do
+ActiveRecord::Schema.define(version: 2021_02_17_143251) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "pgcrypto"
@@ -21,6 +21,7 @@ ActiveRecord::Schema.define(version: 2021_02_17_110935) do
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.string "aasm_state"
+    t.uuid "user_id"
     t.index ["name"], name: "index_leagues_on_name", unique: true
   end
 
@@ -40,6 +41,7 @@ ActiveRecord::Schema.define(version: 2021_02_17_110935) do
     t.uuid "league_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.uuid "user_id"
     t.index ["league_id", "name"], name: "index_teams_on_league_id_and_name", unique: true
     t.index ["league_id"], name: "index_teams_on_league_id"
   end
@@ -63,5 +65,7 @@ ActiveRecord::Schema.define(version: 2021_02_17_110935) do
     t.index ["username"], name: "index_users_on_username", unique: true
   end
 
+  add_foreign_key "leagues", "users"
   add_foreign_key "teams", "leagues"
+  add_foreign_key "teams", "users"
 end

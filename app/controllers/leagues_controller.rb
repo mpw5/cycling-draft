@@ -35,7 +35,7 @@ class LeaguesController < ApplicationController
   private
 
   def league_params
-    params.require(:league).permit(:name)
+    params.require(:league).permit(:name).merge(user_id: current_user.id)
   end
 
   def league
