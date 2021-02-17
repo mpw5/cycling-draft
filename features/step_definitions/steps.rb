@@ -49,3 +49,9 @@ end
 Given('a league called {string} exists') do |name|
   @league = create(:league, name: name)
 end
+
+Given('I have created a league called {string}') do |name|
+  @user = create(:user)
+  @league = create(:league, name: name, user: @user)
+  login_as @user
+end

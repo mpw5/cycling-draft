@@ -5,11 +5,6 @@
 
     - if @team.league.pre_draft?
       %p Waiting for draft to start
-      = link_to t('.delete'),
-          league_team_path(@team.league, @team),
-          method: :delete,
-          data: { confirm: 'Are you sure?' }
-
     - else
       %table{ border: 0 }
         %tbody
@@ -26,5 +21,11 @@
               %td= rider.name
               %td= rider.price.to_i
               %td= rider.previous_score.to_i
+
+    - if policy(@team).destroy?
+      = link_to t('.delete'),
+          league_team_path(@team.league, @team),
+          method: :delete,
+          data: { confirm: 'Are you sure?' }
 
     = link_to t('generic.back'), @team.league

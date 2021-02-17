@@ -12,12 +12,13 @@
 
     = link_to t('.create'), new_league_team_path(@league)
 
-    - if @league.pre_draft?
+    - if policy(@league).destroy?
       = link_to t('.delete'),
           league_path(@league),
           method: :delete,
           data: { confirm: 'Are you sure?' }
 
+    - if policy(@league).update?
       = link_to t('.start'),
           league_path(@league),
           method: :patch,

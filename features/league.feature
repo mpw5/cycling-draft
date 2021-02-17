@@ -10,8 +10,7 @@ Feature: League maintenance
     And 'Test league' is present
 
   Scenario: I delete a league
-    Given a league called 'Test league' exists
-    And I am logged in as a user
+    Given I have created a league called 'Test league'
     And I visit the Leagues page
     When I click link 'Test league'
     Then I am on the 'Test league' page
@@ -20,8 +19,7 @@ Feature: League maintenance
     And 'Test league' is not present
 
   Scenario: I start a draft
-    Given a league called 'Test league' exists
-    And I am logged in as a user
+    Given I have created a league called 'Test league'
     And I visit the Leagues page
     And 'Test league' is present
     When I click link 'Test league'
