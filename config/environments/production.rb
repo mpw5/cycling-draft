@@ -1,6 +1,6 @@
 require 'active_support/core_ext/integer/time'
 
-Rails.application.configure do
+Rails.application.configure do # rubocop:disable Metrics/BlockLength
   # Settings specified here will take precedence over those in config/application.rb.
 
   # Code is not reloaded between requests.
@@ -118,5 +118,16 @@ Rails.application.configure do
   # config.active_record.database_resolver = ActiveRecord::Middleware::DatabaseSelector::Resolver
   # config.active_record.database_resolver_context = ActiveRecord::Middleware::DatabaseSelector::Resolver::Session
 
-  Rails.application.routes.default_url_options[:host] = ENV['HOST']
+  config.action_mailer.smtp_settings = {
+    address: 'smtp.gmail.com',
+    port: 587,
+    domain: 'example.com',
+    authentication: 'plain',
+    enable_starttls_auto: true,
+    user_name: Rails.configuration.x.email.username,
+    password: Rails.configuration.x.email.password
+  }
+
+  config.action_mailer.default_url_options = { host: Rails.configuration.x.application.host }
+  Rails.application.routes.default_url_options[:host] = Rails.configuration.x.application.host
 end

@@ -34,5 +34,11 @@ module DraftACyclingTeam
 
     # Don't generate system test files.
     config.generators.system_tests = nil
+
+    config.x.application.host = ENV['HOST'] || "localhost:#{ENV.fetch('PORT', 3030)}"
+    config.x.email.username = ENV['EMAIL_USERNAME']
+    config.x.email.password = ENV['EMAIL_PASSWORD']
+
+    # config.web_console.development_only = false
   end
 end

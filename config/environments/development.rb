@@ -1,6 +1,6 @@
 require 'active_support/core_ext/integer/time'
 
-Rails.application.configure do
+Rails.application.configure do # rubocop:disable Metrics/BlockLength
   # Settings specified here will take precedence over those in config/application.rb.
 
   # In the development environment your application's code is reloaded any time
@@ -63,6 +63,16 @@ Rails.application.configure do
   # Uncomment if you wish to allow Action Cable access from any origin.
   # config.action_cable.disable_request_forgery_protection = true
 
-  config.x.application.host = ENV['HOST'] || "localhost:#{ENV.fetch('PORT', 3030)}"
-  Rails.application.routes.default_url_options[:host] = config.x.application.host
+  config.action_mailer.smtp_settings = {
+    address: 'smtp.gmail.com',
+    port: 587,
+    domain: 'example.com',
+    authentication: 'plain',
+    enable_starttls_auto: true,
+    user_name: Rails.configuration.x.email.username,
+    password: Rails.configuration.x.email.password
+  }
+
+  config.action_mailer.default_url_options = { host: Rails.configuration.x.application.host }
+  Rails.application.routes.default_url_options[:host] = Rails.configuration.x.application.host
 end
