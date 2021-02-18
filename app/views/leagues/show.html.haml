@@ -9,8 +9,8 @@
     - @league&.teams&.each do |team|
       %p= link_to(team.name, league_team_path(@league.id, team.id))
 
-
-    = link_to t('.create'), new_league_team_path(@league)
+    - if policy(@league).create_team?
+      = link_to t('.create'), new_league_team_path(@league)
 
     - if policy(@league).destroy?
       = link_to t('.delete'),

@@ -34,6 +34,10 @@ class LeaguePolicy
     authorized_to_process?
   end
 
+  def create_team?
+    record.pre_draft? && !existing_team?
+  end
+
   private
 
   def authorized_to_process?
@@ -42,5 +46,9 @@ class LeaguePolicy
 
   def my_record?
     record.user_id == user.id
+  end
+
+  def existing_team?
+    Team.where(user: @user, league: record).present?
   end
 end
