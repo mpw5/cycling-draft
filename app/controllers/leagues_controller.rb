@@ -28,7 +28,7 @@ class LeaguesController < ApplicationController
   end
 
   def update
-    league.draft_started!
+    league.start_draft!
     render :show
   end
 
