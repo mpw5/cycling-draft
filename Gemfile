@@ -48,7 +48,7 @@ group :test do
   gem 'selenium-webdriver'
   gem 'simplecov', require: false
   gem 'simplecov-rcov'
-  gem 'webdrivers', '~> 4.5'
+  gem 'webdrivers', '~> 4.6'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
