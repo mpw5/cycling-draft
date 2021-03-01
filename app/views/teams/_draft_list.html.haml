@@ -19,4 +19,4 @@
         %td= link_to t('.draft'),
           league_team_path(league, team, rider_id: rider.id),
             method: :patch,
-            data: { confirm: "Draft #{rider.name}?" }
+            data: { confirm: "Draft #{rider.name}?" } if policy(team).update?
