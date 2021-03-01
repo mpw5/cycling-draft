@@ -14,7 +14,7 @@ Feature: League maintenance
     And I visit the Leagues page
     When I click link 'Test league'
     Then I am on the 'Test league' page
-    When I click the 'Delete' button and accept the alert
+    When I click 'Delete' and accept the alert
     Then I am on the 'Leagues' page
     And 'Test league' is not present
 
@@ -25,6 +25,6 @@ Feature: League maintenance
     When I click link 'Test league'
     Then I am on the 'Test league' page
     And 'Waiting for draft to start' is present
-    When I click the 'Start' button and accept the alert
+    When I click 'Start' and accept the alert
     Then I am on the 'Test league' page
     And 'Waiting for draft to start' is not present

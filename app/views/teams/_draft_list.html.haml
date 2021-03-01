@@ -1,0 +1,22 @@
+%h2= t '.available_riders'
+%table{ border: 0, id: 'available-riders' }
+  %thead
+    %tr
+      %th Country
+      %th Team
+      %th Rider
+      %th Price
+      %th Previous score
+      %th Draft?
+  %tbody
+    - @team.league.available_riders.each do |rider|
+      %tr
+        %td= rider.country
+        %td= rider.team
+        %td= rider.name
+        %td= rider.price.to_i
+        %td= rider.previous_score.to_i
+        %td= link_to t('.draft'),
+          league_team_path(league, team, rider_id: rider.id),
+            method: :patch,
+            data: { confirm: "Draft #{rider.name}?" }

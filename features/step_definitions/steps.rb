@@ -16,9 +16,9 @@ When('I click link {string}') do |link_name|
   click_link(link_name)
 end
 
-When('I click the {string} button and accept the alert') do |button_name|
+When('I click {string} and accept the alert') do |name|
   accept_confirm do
-    click_link(button_name)
+    click_link(name)
   end
 end
 
@@ -54,4 +54,20 @@ Given('I have created a league called {string}') do |name|
   @user = create(:user)
   @league = create(:league, name: name, user: @user)
   login_as @user
+end
+
+Given('I have created a league called {string} with a team called {string}') do |league_name, team_name|
+  @user = create(:user)
+  @league = create(:league, name: league_name, user: @user)
+  @team = create(:team, name: team_name, league: @league, user: @user)
+  @rider = create(:rider, name: 'Test rider')
+  login_as @user
+end
+
+Then('my team has one rider') do
+  expect(page.all(:css, 'table#my-team tr').count - 1).to eq 1 # ignore the header row
+end
+
+Then('there are no riders to draft') do
+  expect(page.all(:css, 'table#available-riders tr').count - 1).to eq 0 # ignore the header row
 end

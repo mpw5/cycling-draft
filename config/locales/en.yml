@@ -18,3 +18,8 @@ en:
       title: Create a new team
     show:
       delete: Delete this team
+    draft_list:
+      available_riders: Available riders
+      draft: Draft
+    drafted_team:
+      my_team: My team

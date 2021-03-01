@@ -92,12 +92,8 @@ RSpec.describe TeamsController, type: :request do
       expect { subject }.to change { team.riders.count }.by 1
     end
 
-    it 'reloads the page without the drafted rider present' do
-      subject
-      response_body = CGI.unescapeHTML(response.body)
-      expect(response_body).not_to include(riders.first.name)
-      expect(response_body).to include(riders[1].name)
-      expect(response_body).to include(riders[2].name)
+    it 'prevents the rider being drafted again' do
+      expect { subject }.to change { league.reload.available_riders.count }.by(-1)
     end
   end
 end

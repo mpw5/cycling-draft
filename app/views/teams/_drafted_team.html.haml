@@ -1,0 +1,17 @@
+%h2= t '.my_team'
+%table{ border: 0, id: 'my-team' }
+  %thead
+    %th Country
+    %th Team
+    %th Rider
+    %th Price
+    %th Previous score
+    %th Draft?
+  %tbody
+    - @team.riders.each do |rider|
+      %tr
+        %td= rider.country
+        %td= rider.team
+        %td= rider.name
+        %td= rider.price.to_i
+        %td= rider.previous_score.to_i

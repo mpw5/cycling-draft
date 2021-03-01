@@ -6,21 +6,8 @@
     - if @team.league.pre_draft?
       %p Waiting for draft to start
     - else
-      %table{ border: 0 }
-        %tbody
-          %tr
-            %td Country
-            %td Team
-            %td Rider
-            %td Price
-            %td Previous score
-          - @team.league.available_riders.each do |rider|
-            %tr
-              %td= rider.country
-              %td= rider.team
-              %td= rider.name
-              %td= rider.price.to_i
-              %td= rider.previous_score.to_i
+      = render 'drafted_team' unless @team.riders.empty?
+      = render 'draft_list', team: @team, league: @team.league
 
     - if policy(@team).destroy?
       = link_to t('.delete'),

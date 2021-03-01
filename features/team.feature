@@ -22,6 +22,19 @@ Feature: Team maintenance
     And 'Test team' is present
     When I click link 'Test team'
     Then I am on the 'Test team' page
-    When I click the 'Delete' button and accept the alert
+    When I click 'Delete' and accept the alert
     Then I am on the 'Test league' page
     And 'Test team' is not present
+
+  Scenario: I draft a rider
+    Given I have created a league called 'Test league' with a team called 'Test team'
+    And I visit the 'Test league' league page
+    And I click 'Start' and accept the alert
+    And I click link 'Test team'
+    Then I am on the 'Test team' page
+    And 'Available riders' is present
+    And 'My team' is not present
+    When I click 'Draft' and accept the alert
+    Then 'My team' is present
+    And my team has one rider
+    And there are no riders to draft
