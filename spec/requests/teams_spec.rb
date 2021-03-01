@@ -60,7 +60,7 @@ RSpec.describe TeamsController, type: :request do
     end
   end
 
-  describe 'DELETE /league/:id' do
+  describe 'DELETE /league/:id/team/:id' do
     let!(:league) { create :league }
     let!(:team) { create :team, league: league }
     before do
@@ -74,6 +74,30 @@ RSpec.describe TeamsController, type: :request do
 
     it 'displays the league name' do
       expect(response).to redirect_to(league_path(league))
+    end
+  end
+
+  describe 'PATCH /league/:id/team/:id' do
+    let!(:league) { create :league, aasm_state: :drafting }
+    let!(:team) { create :team, league: league }
+    let!(:riders) { create_list :rider, 3 }
+    let(:subject) { patch league_team_path(league, team), params: { rider_id: riders.first.id } }
+    before { login_as user }
+
+    it 'drafts the rider for the team' do
+      expect { subject }.to change { RiderTeamLeague.count }.by 1
+    end
+
+    it 'allocates the rider to the team' do
+      expect { subject }.to change { team.riders.count }.by 1
+    end
+
+    it 'reloads the page without the drafted rider present' do
+      subject
+      response_body = CGI.unescapeHTML(response.body)
+      expect(response_body).not_to include(riders.first.name)
+      expect(response_body).to include(riders[1].name)
+      expect(response_body).to include(riders[2].name)
     end
   end
 end

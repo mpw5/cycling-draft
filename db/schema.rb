@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_02_25_201657) do
+ActiveRecord::Schema.define(version: 2021_02_25_214356) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "pgcrypto"
@@ -23,6 +23,14 @@ ActiveRecord::Schema.define(version: 2021_02_25_201657) do
     t.string "aasm_state"
     t.uuid "user_id"
     t.index ["name"], name: "index_leagues_on_name", unique: true
+  end
+
+  create_table "rider_team_leagues", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
+    t.uuid "rider_id"
+    t.uuid "team_id"
+    t.uuid "league_id"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
   end
 
   create_table "riders", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|

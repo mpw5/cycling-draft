@@ -2,7 +2,9 @@ class League < ApplicationRecord
   include LeagueStateMachine
 
   validates :name, presence: true, uniqueness: true
+  has_many :rider_team_leagues, dependent: :destroy
   has_many :teams, dependent: :destroy
+  has_many :riders, through: :rider_team_leagues
   belongs_to :user
 
   def pre_draft?
@@ -12,6 +14,10 @@ class League < ApplicationRecord
   def start_draft!
     randomize_draft_positions
     draft_started!
+  end
+
+  def available_riders
+    Rider.all - riders
   end
 
   private

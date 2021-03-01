@@ -14,7 +14,7 @@
             %td Rider
             %td Price
             %td Previous score
-          - Rider.all.each do |rider|
+          - @team.league.available_riders.each do |rider|
             %tr
               %td= rider.country
               %td= rider.team

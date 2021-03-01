@@ -23,10 +23,16 @@ class TeamsController < ApplicationController
     redirect_to league_path(league)
   end
 
+  def update
+    RiderTeamLeague.new(rider_id: params[:rider_id], team_id: team.id, league_id: league.id).save!
+    team
+    render :show
+  end
+
   private
 
   def team_params
-    params.require(:team).permit(:name).merge(user_id: current_user.id)
+    params.require(:team).permit(:name, :rider_id).merge(user_id: current_user.id)
   end
 
   def league

@@ -46,7 +46,7 @@ RSpec.describe LeaguesController, type: :request do
     subject { post leagues_path, params: { league: { name: 'name' } } }
 
     it 'creates a new league' do
-      expect { subject }.to change { League.count }.by(1)
+      expect { subject }.to change { League.count }.by 1
     end
 
     it 'redirects to leagues page' do

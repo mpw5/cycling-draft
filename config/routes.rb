@@ -3,6 +3,6 @@ Rails.application.routes.draw do
   root to: 'leagues#index'
 
   resources :leagues, except: [:edit] do
-    resources :teams, except: %i[edit update index]
+    resources :teams, except: %i[edit index]
   end
 end
