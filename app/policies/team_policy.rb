@@ -15,7 +15,7 @@ class TeamPolicy
   end
 
   def create?
-    true
+    my_record? && record.league.aasm_state == 'pre_draft'
   end
 
   def new?
@@ -23,7 +23,7 @@ class TeamPolicy
   end
 
   def update?
-    my_record?
+    my_record? && my_turn_to_draft? && record.league.aasm_state == 'drafting'
   end
 
   def edit?
@@ -38,5 +38,9 @@ class TeamPolicy
 
   def my_record?
     record.user_id == user.id
+  end
+
+  def my_turn_to_draft?
+    record.draft_position == record.league.current_draft_position
   end
 end

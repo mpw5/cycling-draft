@@ -20,6 +20,16 @@ class League < ApplicationRecord
     Rider.all - riders
   end
 
+  def update_draft_position
+    move_forward and return if draft_forward?
+
+    move_backward
+  end
+
+  def draft_forward?
+    draft_forward
+  end
+
   private
 
   def randomize_draft_positions
@@ -27,5 +37,21 @@ class League < ApplicationRecord
       team.draft_position = index + 1
       team.save!
     end
+  end
+
+  def move_forward
+    current_draft_position == teams.size ? reverse_direction : self.current_draft_position += 1
+    save!
+  end
+
+  def move_backward
+    current_draft_position == 1 ? reverse_direction : self.current_draft_position -= 1
+    save!
+  end
+
+  def reverse_direction
+    self.draft_forward = false if current_draft_position == teams.size
+
+    self.draft_forward = true if current_draft_position == 1
   end
 end

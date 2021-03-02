@@ -25,6 +25,7 @@ class TeamsController < ApplicationController
 
   def update
     RiderTeamLeague.new(rider_id: params[:rider_id], team_id: team.id, league_id: league.id).save!
+    league.update_draft_position
     team
     render :show
   end

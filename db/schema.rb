@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_02_25_214356) do
+ActiveRecord::Schema.define(version: 2021_03_01_234650) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "pgcrypto"
@@ -22,6 +22,8 @@ ActiveRecord::Schema.define(version: 2021_02_25_214356) do
     t.datetime "updated_at", precision: 6, null: false
     t.string "aasm_state"
     t.uuid "user_id"
+    t.integer "current_draft_position", default: 1, null: false
+    t.boolean "draft_forward", default: true, null: false
     t.index ["name"], name: "index_leagues_on_name", unique: true
   end
 
