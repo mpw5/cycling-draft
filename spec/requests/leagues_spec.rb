@@ -98,6 +98,7 @@ RSpec.describe LeaguesController, type: :request do
 
   describe 'PATCH /league/:id' do
     let!(:league) { create :league, aasm_state: :pre_draft }
+    let!(:team) { create :team, league: league, draft_position: 1 }
     before do
       login_as user
       patch league_path(league)

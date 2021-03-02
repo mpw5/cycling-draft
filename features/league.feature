@@ -19,7 +19,7 @@ Feature: League maintenance
     And 'Test league' is not present
 
   Scenario: I start a draft
-    Given I have created a league called 'Test league'
+    Given I have created a league called 'Test league' with a team called 'Test team'
     And I visit the Leagues page
     And 'Test league' is present
     When I click link 'Test league'

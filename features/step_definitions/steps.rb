@@ -59,7 +59,7 @@ end
 Given('I have created a league called {string} with a team called {string}') do |league_name, team_name|
   @user = create(:user)
   @league = create(:league, name: league_name, user: @user)
-  @team = create(:team, name: team_name, league: @league, user: @user)
+  @team = create(:team, name: team_name, league: @league, user: @user, draft_position: 1)
   @rider = create(:rider, name: 'Test rider')
   login_as @user
 end

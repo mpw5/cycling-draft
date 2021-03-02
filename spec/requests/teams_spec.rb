@@ -79,7 +79,7 @@ RSpec.describe TeamsController, type: :request do
 
   describe 'PATCH /league/:id/team/:id' do
     let!(:league) { create :league, aasm_state: :drafting }
-    let!(:team) { create :team, league: league }
+    let!(:team) { create :team, league: league, draft_position: 1 }
     let!(:riders) { create_list :rider, 3 }
     let(:subject) { patch league_team_path(league, team), params: { rider_id: riders.first.id } }
     before { login_as user }

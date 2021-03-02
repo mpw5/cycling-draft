@@ -7,7 +7,9 @@
       %p Waiting for draft to start
     - else
       = render 'drafted_team', team: @team unless @team.riders.empty?
-      = render 'draft_list', team: @team, league: @team.league
+      = render 'draft_list',
+               team: @team,
+               league: @team.league unless @team.league.post_draft?
 
     - if policy(@team).destroy?
       = link_to t('.delete'),

@@ -7,6 +7,8 @@ class League < ApplicationRecord
   has_many :riders, through: :rider_team_leagues
   belongs_to :user
 
+  TEAM_SIZE = 9
+
   def pre_draft?
     aasm_state.eql? 'pre_draft'
   end
@@ -21,6 +23,7 @@ class League < ApplicationRecord
   end
 
   def update_draft_position
+    draft_completed! and return if draft_complete?
     move_forward and return if draft_forward?
 
     move_backward
@@ -28,6 +31,10 @@ class League < ApplicationRecord
 
   def draft_forward?
     draft_forward
+  end
+
+  def draft_complete?
+    teams.find_by(draft_position: teams.size).riders.count == TEAM_SIZE
   end
 
   private
