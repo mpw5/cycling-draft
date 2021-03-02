@@ -2,6 +2,8 @@ en:
   generic:
     back: Back
   leagues:
+    draft:
+      draft_results: Draft in progress...
     index:
       title: Leagues
       create: Create a new league

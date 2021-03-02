@@ -1,0 +1,21 @@
+%h2= t '.draft_results'
+%table{ border: 0, id: 'draft-results' }
+  %thead
+    %tr
+      %th #
+      %th Drafted by
+      %th Country
+      %th Team
+      %th Rider
+      %th Price
+      %th Previous score
+  %tbody
+    - @league.rider_team_leagues.each_with_index do |record, index|
+      %tr
+        %th= index + 1
+        %th= record.team.name
+        %td= record.rider.country
+        %td= record.rider.team
+        %td= record.rider.name
+        %td= record.rider.price.to_i
+        %td= record.rider.previous_score.to_i
