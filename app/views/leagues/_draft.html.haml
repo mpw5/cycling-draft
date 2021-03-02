@@ -1,4 +1,8 @@
 %h2= t '.draft_results'
+
+- team = league.teams.where(draft_position: league.current_draft_position).first
+%h3= t('.drafting_now', team: team.name, user: team.user.username)
+
 %table{ border: 0, id: 'draft-results' }
   %thead
     %tr
@@ -10,7 +14,7 @@
       %th Price
       %th Previous score
   %tbody
-    - @league.rider_team_leagues.each_with_index do |record, index|
+    - league.rider_team_leagues.each_with_index do |record, index|
       %tr
         %th= index + 1
         %th= record.team.name

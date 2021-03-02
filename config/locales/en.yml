@@ -4,6 +4,8 @@ en:
   leagues:
     draft:
       draft_results: Draft in progress...
+      drafting_now: "Drafting now: %{team} (%{user})"
+      up_next: "Up next: %{team} (%{user})"
     index:
       title: Leagues
       create: Create a new league
