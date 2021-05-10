@@ -3,7 +3,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.7.1'
 
-gem 'aasm', '~> 5.1.1'
+gem 'aasm', '~> 5.2.0'
 gem 'bootsnap', '>= 1.4.4', require: false
 gem 'devise', '>= 4.7.1'
 gem 'factory_bot_rails', '>= 5.2.0'
